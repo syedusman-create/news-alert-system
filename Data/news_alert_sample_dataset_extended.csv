@@ -1,0 +1,1001 @@
+text,category,type,location,time,status
+"Garbage dumped at Yeshwanthpur, smells bad.",Garbage,Non-Emergency,Indiranagar,2025-08-25 00:14:25,Resolved
+Huge fire reported at HSR Layout.,Fire,Emergency,Indiranagar,2025-08-01 16:51:25,Acknowledged
+"Smoke rising near Electronic City, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-22 09:53:25,Resolved
+Heart attack case reported at Electronic City.,Medical,Emergency,Brigade Road,2025-07-31 15:29:25,Acknowledged
+Overflowing trash bin near Yeshwanthpur.,Garbage,Non-Emergency,Whitefield,2025-08-20 02:14:25,Resolved
+Heart attack case reported at Hebbal.,Medical,Emergency,Whitefield,2025-08-18 16:29:25,Acknowledged
+Robbery reported at Hebbal.,Crime,Emergency,Indiranagar,2025-08-08 09:55:25,Acknowledged
+Waste blocking road at Indiranagar.,Garbage,Non-Emergency,Electronic City,2025-08-19 23:41:25,New
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,Hebbal,2025-08-25 02:54:25,New
+Plastic waste causing pollution at Koramangala.,Pollution,Non-Emergency,Whitefield,2025-08-01 05:19:25,New
+Industrial smoke polluting air at HSR Layout.,Pollution,Non-Emergency,Whitefield,2025-08-08 22:09:25,Acknowledged
+Traffic congestion reported at Whitefield.,Traffic,Non-Emergency,Whitefield,2025-08-22 02:10:25,Resolved
+Building caught fire at Brigade Road.,Fire,Emergency,Yeshwanthpur,2025-08-08 02:12:25,Resolved
+Accident causing traffic delays on Electronic City.,Traffic,Non-Emergency,Electronic City,2025-08-08 14:56:25,Resolved
+Air pollution level rising around Brigade Road.,Pollution,Non-Emergency,BTM Layout,2025-08-28 11:33:25,Acknowledged
+"Smoke rising near Koramangala, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-08-04 05:31:25,New
+"Huge pothole on BTM Layout, risky for bikers.",Potholes,Non-Emergency,Koramangala,2025-08-04 12:38:25,Resolved
+Industrial smoke polluting air at Yeshwanthpur.,Pollution,Non-Emergency,Brigade Road,2025-08-25 15:44:25,Acknowledged
+Plastic waste causing pollution at HSR Layout.,Pollution,Non-Emergency,HSR Layout,2025-08-10 17:56:25,Resolved
+"Person fainted at Indiranagar, need medical help.",Medical,Emergency,Yeshwanthpur,2025-08-16 20:51:25,Resolved
+"Person fainted at Yeshwanthpur, need medical help.",Medical,Emergency,Yeshwanthpur,2025-07-31 15:23:25,New
+"Road accident reported near Brigade Road, need ambulance.",Accident,Emergency,Indiranagar,2025-08-07 19:13:25,Acknowledged
+Industrial smoke polluting air at MG Road.,Pollution,Non-Emergency,HSR Layout,2025-08-18 02:00:25,New
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,Whitefield,2025-08-01 21:33:25,Acknowledged
+Garbage not collected from Whitefield for 3 days.,Garbage,Non-Emergency,MG Road,2025-08-11 04:49:25,New
+"Fight broke out at Brigade Road, police required.",Crime,Emergency,Hebbal,2025-08-17 16:41:25,New
+Traffic congestion reported at Electronic City.,Traffic,Non-Emergency,Electronic City,2025-08-17 14:26:25,Resolved
+"Road blocked near Hebbal, vehicles moving slowly.",Traffic,Non-Emergency,Whitefield,2025-08-20 15:10:25,Resolved
+Industrial smoke polluting air at Indiranagar.,Pollution,Non-Emergency,Whitefield,2025-08-23 15:50:25,Acknowledged
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Indiranagar,2025-08-03 03:47:25,Resolved
+Garbage not collected from Electronic City for 3 days.,Garbage,Non-Emergency,Hebbal,2025-08-25 01:01:25,Resolved
+"Bike accident occurred at Hebbal, police required.",Accident,Emergency,MG Road,2025-08-06 05:39:25,New
+Suspicious activity noticed at BTM Layout.,Crime,Emergency,Yeshwanthpur,2025-08-21 20:14:25,New
+"Road blocked near Whitefield, vehicles moving slowly.",Traffic,Non-Emergency,Koramangala,2025-08-16 18:22:25,Resolved
+Pothole causing accidents near MG Road.,Potholes,Non-Emergency,Electronic City,2025-08-15 07:13:25,New
+"Murder reported near Koramangala, urgent action needed.",Crime,Emergency,MG Road,2025-08-07 00:23:25,Resolved
+Building caught fire at Indiranagar.,Fire,Emergency,MG Road,2025-08-18 13:17:25,Resolved
+Plastic waste causing pollution at Hebbal.,Pollution,Non-Emergency,Koramangala,2025-08-03 14:10:25,Acknowledged
+"Major accident on Koramangala, multiple vehicles involved.",Accident,Emergency,BTM Layout,2025-08-22 23:02:25,Resolved
+Air pollution level rising around MG Road.,Pollution,Non-Emergency,BTM Layout,2025-08-27 19:47:25,Acknowledged
+Heart attack case reported at Hebbal.,Medical,Emergency,Electronic City,2025-08-10 04:48:25,Acknowledged
+Suspicious activity noticed at Whitefield.,Crime,Emergency,Brigade Road,2025-08-28 00:38:25,Resolved
+Garbage not collected from HSR Layout for 3 days.,Garbage,Non-Emergency,MG Road,2025-08-06 10:55:25,New
+"Smoke rising near Hebbal, seems like a fire incident.",Fire,Emergency,MG Road,2025-08-20 16:03:25,Resolved
+Robbery reported at Yeshwanthpur.,Crime,Emergency,Electronic City,2025-08-02 18:09:25,New
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,Hebbal,2025-08-08 00:52:25,Acknowledged
+"Fight broke out at Indiranagar, police required.",Crime,Emergency,Brigade Road,2025-08-23 04:16:25,Acknowledged
+"Bike accident occurred at Indiranagar, police required.",Accident,Emergency,Hebbal,2025-08-23 14:49:25,Resolved
+Waste blocking road at Hebbal.,Garbage,Non-Emergency,BTM Layout,2025-08-08 03:26:25,Resolved
+Heavy traffic jam at Hebbal.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-21 19:30:25,Acknowledged
+Dangerous pothole reported at Whitefield.,Potholes,Non-Emergency,Brigade Road,2025-08-17 09:56:25,Acknowledged
+Garbage not collected from Koramangala for 3 days.,Garbage,Non-Emergency,BTM Layout,2025-08-25 05:47:25,Resolved
+Suspicious activity noticed at Yeshwanthpur.,Crime,Emergency,Koramangala,2025-08-28 02:53:25,Resolved
+Pothole causing accidents near Brigade Road.,Potholes,Non-Emergency,HSR Layout,2025-08-11 05:02:25,Acknowledged
+Overflowing trash bin near Whitefield.,Garbage,Non-Emergency,MG Road,2025-08-11 02:30:25,Resolved
+Industrial smoke polluting air at Brigade Road.,Pollution,Non-Emergency,Koramangala,2025-08-22 05:33:25,New
+"Smoke rising near HSR Layout, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-03 23:23:25,New
+"Bike accident occurred at Koramangala, police required.",Accident,Emergency,Hebbal,2025-08-10 19:40:25,Acknowledged
+Heavy traffic jam at Electronic City.,Traffic,Non-Emergency,Brigade Road,2025-08-12 01:28:25,Resolved
+Road at Electronic City has multiple potholes.,Potholes,Non-Emergency,Whitefield,2025-08-26 00:30:25,Resolved
+Heart attack case reported at Brigade Road.,Medical,Emergency,Koramangala,2025-08-26 12:58:25,Resolved
+"Road blocked near Indiranagar, vehicles moving slowly.",Traffic,Non-Emergency,BTM Layout,2025-08-11 16:45:25,New
+Air pollution level rising around HSR Layout.,Pollution,Non-Emergency,Hebbal,2025-08-18 20:27:25,New
+Overflowing trash bin near HSR Layout.,Garbage,Non-Emergency,Whitefield,2025-08-06 09:26:25,Resolved
+Heart attack case reported at Koramangala.,Medical,Emergency,HSR Layout,2025-07-28 21:04:25,New
+"Injury reported at Indiranagar, need hospital support.",Medical,Emergency,BTM Layout,2025-08-13 15:54:25,Acknowledged
+"Injury reported at HSR Layout, need hospital support.",Medical,Emergency,HSR Layout,2025-08-23 10:00:25,Resolved
+"Smoke rising near Brigade Road, seems like a fire incident.",Fire,Emergency,Brigade Road,2025-08-03 16:16:25,Acknowledged
+"Smoke rising near MG Road, seems like a fire incident.",Fire,Emergency,Whitefield,2025-07-30 05:57:25,Resolved
+"Road accident reported near BTM Layout, need ambulance.",Accident,Emergency,Brigade Road,2025-08-17 10:43:25,Acknowledged
+Water pollution noticed near Electronic City.,Pollution,Non-Emergency,Indiranagar,2025-08-11 03:42:25,Resolved
+"Road accident reported near Yeshwanthpur, need ambulance.",Accident,Emergency,Hebbal,2025-08-19 08:55:25,Resolved
+Overflowing trash bin near MG Road.,Garbage,Non-Emergency,Brigade Road,2025-08-27 14:02:25,New
+Water pollution noticed near MG Road.,Pollution,Non-Emergency,Brigade Road,2025-08-05 09:32:25,Resolved
+"Car crash at Koramangala, traffic blocked.",Accident,Emergency,Electronic City,2025-08-06 19:03:25,New
+Huge fire reported at MG Road.,Fire,Emergency,BTM Layout,2025-08-19 20:26:25,Acknowledged
+"Garbage dumped at Indiranagar, smells bad.",Garbage,Non-Emergency,Whitefield,2025-08-03 12:10:25,Resolved
+"Smoke rising near Electronic City, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-08-07 13:01:25,Resolved
+Robbery reported at Hebbal.,Crime,Emergency,Indiranagar,2025-08-17 02:36:25,Resolved
+"Huge pothole on BTM Layout, risky for bikers.",Potholes,Non-Emergency,Brigade Road,2025-07-29 13:12:25,Resolved
+Suspicious activity noticed at Brigade Road.,Crime,Emergency,Indiranagar,2025-08-11 02:23:25,Resolved
+"Huge pothole on Whitefield, risky for bikers.",Potholes,Non-Emergency,Electronic City,2025-07-29 03:03:25,Resolved
+Traffic congestion reported at Koramangala.,Traffic,Non-Emergency,Whitefield,2025-08-21 14:11:25,Resolved
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Brigade Road,2025-08-12 13:58:25,New
+Traffic congestion reported at Electronic City.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-22 16:34:25,Acknowledged
+"Garbage dumped at BTM Layout, smells bad.",Garbage,Non-Emergency,Hebbal,2025-08-12 10:58:25,New
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Brigade Road,2025-08-28 04:30:25,Acknowledged
+Plastic waste causing pollution at Whitefield.,Pollution,Non-Emergency,BTM Layout,2025-08-28 06:19:25,New
+"Road accident reported near Yeshwanthpur, need ambulance.",Accident,Emergency,Hebbal,2025-08-20 12:07:25,Resolved
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,HSR Layout,2025-08-21 03:32:25,Acknowledged
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,HSR Layout,2025-08-12 21:17:25,New
+Huge fire reported at MG Road.,Fire,Emergency,Electronic City,2025-08-25 23:19:25,New
+Medical emergency near Brigade Road.,Medical,Emergency,Yeshwanthpur,2025-08-11 03:30:25,Resolved
+"Garbage dumped at Whitefield, smells bad.",Garbage,Non-Emergency,Brigade Road,2025-08-26 08:06:25,Acknowledged
+Heavy traffic jam at HSR Layout.,Traffic,Non-Emergency,Indiranagar,2025-08-07 03:11:25,Acknowledged
+Heart attack case reported at Whitefield.,Medical,Emergency,Hebbal,2025-08-19 06:47:25,Acknowledged
+Pothole causing accidents near Indiranagar.,Potholes,Non-Emergency,MG Road,2025-08-17 01:53:25,Resolved
+Garbage not collected from Indiranagar for 3 days.,Garbage,Non-Emergency,Electronic City,2025-08-05 16:07:25,Acknowledged
+Garbage not collected from Brigade Road for 3 days.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-21 05:05:25,Acknowledged
+"Car crash at Electronic City, traffic blocked.",Accident,Emergency,Electronic City,2025-08-16 04:31:25,Acknowledged
+"Road accident reported near Yeshwanthpur, need ambulance.",Accident,Emergency,Brigade Road,2025-08-10 20:56:25,New
+Robbery reported at Koramangala.,Crime,Emergency,HSR Layout,2025-07-30 06:52:25,New
+"Murder reported near Yeshwanthpur, urgent action needed.",Crime,Emergency,Whitefield,2025-08-21 00:52:25,New
+Road at Whitefield has multiple potholes.,Potholes,Non-Emergency,Indiranagar,2025-08-10 02:46:25,New
+Water pollution noticed near Koramangala.,Pollution,Non-Emergency,BTM Layout,2025-08-07 23:30:25,New
+Industrial smoke polluting air at Yeshwanthpur.,Pollution,Non-Emergency,Indiranagar,2025-08-26 23:37:25,Acknowledged
+"Smoke rising near MG Road, seems like a fire incident.",Fire,Emergency,Koramangala,2025-08-14 14:48:25,Acknowledged
+"Road blocked near HSR Layout, vehicles moving slowly.",Traffic,Non-Emergency,Indiranagar,2025-08-26 09:18:25,Acknowledged
+Emergency! Fire outbreak at HSR Layout.,Fire,Emergency,Yeshwanthpur,2025-08-13 20:15:25,Acknowledged
+Accident causing traffic delays on Yeshwanthpur.,Traffic,Non-Emergency,HSR Layout,2025-08-05 18:07:25,Acknowledged
+Waste blocking road at MG Road.,Garbage,Non-Emergency,Koramangala,2025-08-11 17:02:25,Resolved
+Building caught fire at Brigade Road.,Fire,Emergency,Koramangala,2025-08-02 05:30:25,Resolved
+"Garbage dumped at Hebbal, smells bad.",Garbage,Non-Emergency,Electronic City,2025-08-25 19:58:25,New
+"Person fainted at Hebbal, need medical help.",Medical,Emergency,HSR Layout,2025-07-30 06:38:25,Resolved
+"Road accident reported near Whitefield, need ambulance.",Accident,Emergency,Koramangala,2025-08-14 21:08:25,Acknowledged
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Koramangala,2025-08-12 18:37:25,Acknowledged
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-28 03:21:25,New
+Huge fire reported at Indiranagar.,Fire,Emergency,HSR Layout,2025-08-19 09:18:25,New
+"Smoke rising near Whitefield, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-25 09:52:25,New
+Air pollution level rising around BTM Layout.,Pollution,Non-Emergency,HSR Layout,2025-08-17 14:36:25,Resolved
+Suspicious activity noticed at Hebbal.,Crime,Emergency,Hebbal,2025-08-22 13:17:25,New
+Heavy traffic jam at Hebbal.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-08 07:01:25,New
+Garbage not collected from Hebbal for 3 days.,Garbage,Non-Emergency,Hebbal,2025-08-06 19:58:25,Resolved
+Suspicious activity noticed at Yeshwanthpur.,Crime,Emergency,Whitefield,2025-08-04 21:25:25,Acknowledged
+Robbery reported at Indiranagar.,Crime,Emergency,Brigade Road,2025-08-19 17:28:25,Acknowledged
+"Injury reported at Yeshwanthpur, need hospital support.",Medical,Emergency,HSR Layout,2025-08-20 06:18:25,Resolved
+Heart attack case reported at Yeshwanthpur.,Medical,Emergency,Brigade Road,2025-08-15 15:01:25,Acknowledged
+Traffic congestion reported at Koramangala.,Traffic,Non-Emergency,Brigade Road,2025-08-27 10:06:25,Resolved
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,Yeshwanthpur,2025-08-20 23:41:25,Acknowledged
+Emergency! Fire outbreak at Indiranagar.,Fire,Emergency,Koramangala,2025-08-27 07:33:25,Resolved
+Water pollution noticed near Brigade Road.,Pollution,Non-Emergency,Indiranagar,2025-08-21 11:28:25,Acknowledged
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,Electronic City,2025-08-23 03:05:25,Resolved
+"Smoke rising near Whitefield, seems like a fire incident.",Fire,Emergency,Electronic City,2025-08-27 15:22:25,Resolved
+Building caught fire at MG Road.,Fire,Emergency,Whitefield,2025-08-01 20:39:25,New
+"Bike accident occurred at Brigade Road, police required.",Accident,Emergency,Brigade Road,2025-08-21 15:54:25,Acknowledged
+"Road blocked near Brigade Road, vehicles moving slowly.",Traffic,Non-Emergency,BTM Layout,2025-08-18 01:35:25,New
+"Road blocked near HSR Layout, vehicles moving slowly.",Traffic,Non-Emergency,Koramangala,2025-08-01 08:57:25,Resolved
+"Smoke rising near HSR Layout, seems like a fire incident.",Fire,Emergency,Whitefield,2025-08-09 12:15:25,New
+Garbage not collected from Whitefield for 3 days.,Garbage,Non-Emergency,MG Road,2025-08-11 07:36:25,Resolved
+Building caught fire at Yeshwanthpur.,Fire,Emergency,MG Road,2025-08-15 05:20:25,New
+"Major accident on Electronic City, multiple vehicles involved.",Accident,Emergency,Brigade Road,2025-07-28 19:43:25,Acknowledged
+Robbery reported at Brigade Road.,Crime,Emergency,MG Road,2025-07-30 15:16:25,Acknowledged
+Accident causing traffic delays on Whitefield.,Traffic,Non-Emergency,MG Road,2025-08-25 16:47:25,Acknowledged
+Heavy traffic jam at Hebbal.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-02 23:04:25,Acknowledged
+"Car crash at Yeshwanthpur, traffic blocked.",Accident,Emergency,Brigade Road,2025-08-28 06:30:25,New
+Huge fire reported at Whitefield.,Fire,Emergency,MG Road,2025-08-21 04:28:25,Resolved
+Road at Koramangala has multiple potholes.,Potholes,Non-Emergency,Indiranagar,2025-08-06 06:37:25,Resolved
+"Huge pothole on MG Road, risky for bikers.",Potholes,Non-Emergency,Indiranagar,2025-08-04 01:45:25,New
+Robbery reported at BTM Layout.,Crime,Emergency,MG Road,2025-08-03 08:07:25,New
+Accident causing traffic delays on Hebbal.,Traffic,Non-Emergency,Whitefield,2025-08-14 02:04:25,Acknowledged
+Road at HSR Layout has multiple potholes.,Potholes,Non-Emergency,Hebbal,2025-08-10 10:43:25,Acknowledged
+"Person fainted at Brigade Road, need medical help.",Medical,Emergency,BTM Layout,2025-08-24 04:46:25,Resolved
+"Major accident on MG Road, multiple vehicles involved.",Accident,Emergency,MG Road,2025-07-30 08:14:25,Acknowledged
+"Huge pothole on Brigade Road, risky for bikers.",Potholes,Non-Emergency,Electronic City,2025-08-12 21:24:25,Acknowledged
+"Person fainted at Yeshwanthpur, need medical help.",Medical,Emergency,Brigade Road,2025-08-23 06:27:25,Acknowledged
+Industrial smoke polluting air at MG Road.,Pollution,Non-Emergency,Brigade Road,2025-08-06 04:38:25,Resolved
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Hebbal,2025-08-06 00:52:25,New
+Road at Whitefield has multiple potholes.,Potholes,Non-Emergency,Whitefield,2025-08-11 19:02:25,New
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,HSR Layout,2025-08-02 01:36:25,Acknowledged
+Water pollution noticed near MG Road.,Pollution,Non-Emergency,Electronic City,2025-07-29 02:52:25,New
+"Murder reported near Electronic City, urgent action needed.",Crime,Emergency,Indiranagar,2025-08-13 00:07:25,Resolved
+"Car crash at Electronic City, traffic blocked.",Accident,Emergency,Indiranagar,2025-08-05 02:58:25,Resolved
+"Fight broke out at BTM Layout, police required.",Crime,Emergency,Electronic City,2025-07-30 12:02:25,Acknowledged
+Emergency! Fire outbreak at Brigade Road.,Fire,Emergency,Whitefield,2025-08-01 18:17:25,Acknowledged
+"Garbage dumped at MG Road, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-08-07 04:26:25,New
+Accident causing traffic delays on Electronic City.,Traffic,Non-Emergency,Indiranagar,2025-08-07 08:47:25,New
+"Major accident on Brigade Road, multiple vehicles involved.",Accident,Emergency,Hebbal,2025-08-14 06:35:25,Resolved
+Garbage not collected from Yeshwanthpur for 3 days.,Garbage,Non-Emergency,BTM Layout,2025-08-21 12:21:25,New
+"Person fainted at Electronic City, need medical help.",Medical,Emergency,Hebbal,2025-08-01 12:35:25,Acknowledged
+Suspicious activity noticed at Electronic City.,Crime,Emergency,Indiranagar,2025-08-23 16:45:25,Resolved
+Water pollution noticed near Brigade Road.,Pollution,Non-Emergency,MG Road,2025-08-05 14:13:25,Acknowledged
+Industrial smoke polluting air at Brigade Road.,Pollution,Non-Emergency,BTM Layout,2025-08-03 06:50:25,Resolved
+"Huge pothole on BTM Layout, risky for bikers.",Potholes,Non-Emergency,Yeshwanthpur,2025-08-04 18:43:25,New
+"Fight broke out at Whitefield, police required.",Crime,Emergency,Indiranagar,2025-08-07 21:29:25,Acknowledged
+Traffic congestion reported at Brigade Road.,Traffic,Non-Emergency,Koramangala,2025-08-26 02:34:25,Resolved
+"Murder reported near BTM Layout, urgent action needed.",Crime,Emergency,Koramangala,2025-08-18 08:28:25,Resolved
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,Hebbal,2025-08-18 12:42:25,Resolved
+Traffic congestion reported at MG Road.,Traffic,Non-Emergency,Brigade Road,2025-08-01 01:51:25,Acknowledged
+Water pollution noticed near HSR Layout.,Pollution,Non-Emergency,Whitefield,2025-08-07 01:23:25,New
+"Major accident on Electronic City, multiple vehicles involved.",Accident,Emergency,HSR Layout,2025-08-12 03:46:25,New
+Emergency! Fire outbreak at MG Road.,Fire,Emergency,Yeshwanthpur,2025-07-31 01:35:25,Resolved
+"Smoke rising near Hebbal, seems like a fire incident.",Fire,Emergency,MG Road,2025-08-12 13:00:25,Resolved
+Dangerous pothole reported at HSR Layout.,Potholes,Non-Emergency,MG Road,2025-08-06 22:23:25,New
+Building caught fire at BTM Layout.,Fire,Emergency,HSR Layout,2025-08-28 08:07:25,Resolved
+"Road blocked near Hebbal, vehicles moving slowly.",Traffic,Non-Emergency,Whitefield,2025-08-28 16:16:25,New
+Plastic waste causing pollution at Hebbal.,Pollution,Non-Emergency,Koramangala,2025-08-08 09:41:25,Resolved
+Medical emergency near BTM Layout.,Medical,Emergency,BTM Layout,2025-07-28 22:26:25,New
+Garbage not collected from Brigade Road for 3 days.,Garbage,Non-Emergency,HSR Layout,2025-08-16 11:58:25,New
+Plastic waste causing pollution at Koramangala.,Pollution,Non-Emergency,Indiranagar,2025-08-16 18:16:25,Acknowledged
+"Smoke rising near Yeshwanthpur, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-22 18:49:25,New
+"Huge pothole on Yeshwanthpur, risky for bikers.",Potholes,Non-Emergency,MG Road,2025-08-22 01:22:25,Acknowledged
+Huge fire reported at Koramangala.,Fire,Emergency,HSR Layout,2025-08-10 23:40:25,Resolved
+Robbery reported at Electronic City.,Crime,Emergency,Yeshwanthpur,2025-08-14 13:10:25,Acknowledged
+"Major accident on HSR Layout, multiple vehicles involved.",Accident,Emergency,HSR Layout,2025-08-27 11:23:25,New
+Emergency! Fire outbreak at Brigade Road.,Fire,Emergency,Brigade Road,2025-08-03 10:01:25,New
+Industrial smoke polluting air at Whitefield.,Pollution,Non-Emergency,Brigade Road,2025-07-31 09:15:25,Resolved
+"Road accident reported near Hebbal, need ambulance.",Accident,Emergency,Indiranagar,2025-08-04 02:39:25,Acknowledged
+Huge fire reported at Indiranagar.,Fire,Emergency,Electronic City,2025-08-01 01:20:25,Resolved
+"Bike accident occurred at Electronic City, police required.",Accident,Emergency,Electronic City,2025-08-02 03:51:25,Resolved
+"Fight broke out at Electronic City, police required.",Crime,Emergency,Brigade Road,2025-07-29 16:01:25,Acknowledged
+Robbery reported at Koramangala.,Crime,Emergency,Brigade Road,2025-08-22 15:32:25,New
+Overflowing trash bin near HSR Layout.,Garbage,Non-Emergency,Koramangala,2025-08-25 07:49:25,Acknowledged
+Plastic waste causing pollution at HSR Layout.,Pollution,Non-Emergency,Hebbal,2025-08-19 15:27:25,New
+Road at Yeshwanthpur has multiple potholes.,Potholes,Non-Emergency,Hebbal,2025-08-06 18:25:25,Resolved
+Road at Whitefield has multiple potholes.,Potholes,Non-Emergency,HSR Layout,2025-08-10 16:30:25,New
+"Injury reported at Electronic City, need hospital support.",Medical,Emergency,BTM Layout,2025-08-04 09:14:25,Acknowledged
+Heart attack case reported at MG Road.,Medical,Emergency,MG Road,2025-08-28 10:22:25,Acknowledged
+"Huge pothole on Indiranagar, risky for bikers.",Potholes,Non-Emergency,MG Road,2025-08-27 19:12:25,Resolved
+"Person fainted at BTM Layout, need medical help.",Medical,Emergency,Electronic City,2025-08-09 04:33:25,Acknowledged
+Traffic congestion reported at Koramangala.,Traffic,Non-Emergency,MG Road,2025-08-23 03:08:25,Resolved
+"Road accident reported near Electronic City, need ambulance.",Accident,Emergency,Electronic City,2025-08-10 17:39:25,Acknowledged
+Heavy traffic jam at Indiranagar.,Traffic,Non-Emergency,Brigade Road,2025-08-14 05:40:25,Acknowledged
+Overflowing trash bin near Brigade Road.,Garbage,Non-Emergency,Koramangala,2025-08-14 22:56:25,New
+Heart attack case reported at BTM Layout.,Medical,Emergency,Koramangala,2025-07-30 10:41:25,New
+"Major accident on Brigade Road, multiple vehicles involved.",Accident,Emergency,Yeshwanthpur,2025-08-07 11:36:25,New
+"Injury reported at Whitefield, need hospital support.",Medical,Emergency,Indiranagar,2025-08-08 01:07:25,Resolved
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,Hebbal,2025-08-14 18:07:25,New
+Waste blocking road at Brigade Road.,Garbage,Non-Emergency,Indiranagar,2025-08-27 06:35:25,New
+"Injury reported at HSR Layout, need hospital support.",Medical,Emergency,Electronic City,2025-07-31 11:34:25,Resolved
+Suspicious activity noticed at Electronic City.,Crime,Emergency,Koramangala,2025-08-20 16:35:25,New
+Accident causing traffic delays on Yeshwanthpur.,Traffic,Non-Emergency,Koramangala,2025-08-24 13:10:25,Acknowledged
+"Smoke rising near Koramangala, seems like a fire incident.",Fire,Emergency,Electronic City,2025-08-03 17:35:25,Acknowledged
+"Garbage dumped at BTM Layout, smells bad.",Garbage,Non-Emergency,Yeshwanthpur,2025-08-03 23:05:25,New
+"Fight broke out at MG Road, police required.",Crime,Emergency,Yeshwanthpur,2025-08-01 14:08:25,Resolved
+"Major accident on BTM Layout, multiple vehicles involved.",Accident,Emergency,Indiranagar,2025-08-06 19:48:25,New
+Water pollution noticed near Brigade Road.,Pollution,Non-Emergency,Hebbal,2025-07-30 19:51:25,Acknowledged
+"Smoke rising near MG Road, seems like a fire incident.",Fire,Emergency,Hebbal,2025-08-11 23:06:25,Resolved
+Overflowing trash bin near MG Road.,Garbage,Non-Emergency,HSR Layout,2025-07-31 10:49:25,Resolved
+Waste blocking road at Electronic City.,Garbage,Non-Emergency,Electronic City,2025-08-21 00:04:25,Resolved
+Industrial smoke polluting air at BTM Layout.,Pollution,Non-Emergency,BTM Layout,2025-08-19 07:38:25,Resolved
+Heart attack case reported at BTM Layout.,Medical,Emergency,Brigade Road,2025-08-05 00:01:25,Resolved
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,BTM Layout,2025-08-04 10:54:25,Resolved
+Overflowing trash bin near Hebbal.,Garbage,Non-Emergency,Brigade Road,2025-08-01 08:49:25,Acknowledged
+Air pollution level rising around Electronic City.,Pollution,Non-Emergency,Brigade Road,2025-08-13 01:56:25,Resolved
+Emergency! Fire outbreak at Brigade Road.,Fire,Emergency,Electronic City,2025-08-15 09:25:25,Resolved
+"Garbage dumped at Whitefield, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-08-26 01:01:25,Acknowledged
+Garbage not collected from Indiranagar for 3 days.,Garbage,Non-Emergency,Electronic City,2025-08-23 18:02:25,New
+Plastic waste causing pollution at Koramangala.,Pollution,Non-Emergency,HSR Layout,2025-08-06 19:50:25,New
+Pothole causing accidents near Whitefield.,Potholes,Non-Emergency,Brigade Road,2025-07-31 02:11:25,Acknowledged
+"Murder reported near MG Road, urgent action needed.",Crime,Emergency,Whitefield,2025-08-25 23:15:25,Acknowledged
+Huge fire reported at Electronic City.,Fire,Emergency,Brigade Road,2025-08-27 23:18:25,Resolved
+Heavy traffic jam at Hebbal.,Traffic,Non-Emergency,Whitefield,2025-07-30 14:41:25,Acknowledged
+Robbery reported at Yeshwanthpur.,Crime,Emergency,Hebbal,2025-08-18 22:56:25,New
+"Fight broke out at Indiranagar, police required.",Crime,Emergency,Indiranagar,2025-08-07 16:09:25,New
+"Major accident on MG Road, multiple vehicles involved.",Accident,Emergency,Indiranagar,2025-08-01 23:33:25,Acknowledged
+Medical emergency near Yeshwanthpur.,Medical,Emergency,BTM Layout,2025-08-22 06:50:25,New
+"Road accident reported near BTM Layout, need ambulance.",Accident,Emergency,Yeshwanthpur,2025-08-10 11:30:25,Resolved
+Huge fire reported at Koramangala.,Fire,Emergency,Hebbal,2025-08-16 07:26:25,Acknowledged
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Koramangala,2025-08-17 14:48:25,New
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,Whitefield,2025-08-02 00:16:25,Resolved
+"Huge pothole on HSR Layout, risky for bikers.",Potholes,Non-Emergency,BTM Layout,2025-08-17 00:33:25,Resolved
+"Smoke rising near Hebbal, seems like a fire incident.",Fire,Emergency,MG Road,2025-08-23 05:49:25,Resolved
+"Fight broke out at HSR Layout, police required.",Crime,Emergency,Hebbal,2025-08-01 13:28:25,Acknowledged
+Air pollution level rising around Electronic City.,Pollution,Non-Emergency,MG Road,2025-07-31 23:53:25,New
+Dangerous pothole reported at BTM Layout.,Potholes,Non-Emergency,BTM Layout,2025-08-12 14:32:25,New
+Air pollution level rising around MG Road.,Pollution,Non-Emergency,BTM Layout,2025-07-30 09:28:25,Acknowledged
+Heavy traffic jam at Koramangala.,Traffic,Non-Emergency,Whitefield,2025-08-28 10:58:25,Resolved
+"Injury reported at HSR Layout, need hospital support.",Medical,Emergency,Yeshwanthpur,2025-08-09 08:55:25,New
+Heavy traffic jam at Whitefield.,Traffic,Non-Emergency,Electronic City,2025-08-12 07:58:25,New
+Plastic waste causing pollution at Koramangala.,Pollution,Non-Emergency,Brigade Road,2025-08-06 16:58:25,Acknowledged
+Huge fire reported at Koramangala.,Fire,Emergency,Yeshwanthpur,2025-08-18 13:37:25,Acknowledged
+Waste blocking road at Hebbal.,Garbage,Non-Emergency,BTM Layout,2025-08-11 04:15:25,Resolved
+Traffic congestion reported at Hebbal.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-20 07:25:25,New
+Garbage not collected from Whitefield for 3 days.,Garbage,Non-Emergency,Brigade Road,2025-08-25 15:05:25,Acknowledged
+"Garbage dumped at Whitefield, smells bad.",Garbage,Non-Emergency,HSR Layout,2025-08-22 03:30:25,Acknowledged
+Road at Yeshwanthpur has multiple potholes.,Potholes,Non-Emergency,Brigade Road,2025-08-16 13:48:25,Acknowledged
+Heart attack case reported at Indiranagar.,Medical,Emergency,Electronic City,2025-08-22 07:11:25,Resolved
+"Murder reported near Hebbal, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-07 01:31:25,Acknowledged
+"Car crash at Indiranagar, traffic blocked.",Accident,Emergency,Brigade Road,2025-08-15 12:12:25,New
+"Major accident on BTM Layout, multiple vehicles involved.",Accident,Emergency,Indiranagar,2025-08-03 15:59:25,Acknowledged
+Accident causing traffic delays on HSR Layout.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-18 23:43:25,Resolved
+Accident causing traffic delays on Whitefield.,Traffic,Non-Emergency,Electronic City,2025-07-30 17:30:25,Acknowledged
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,Indiranagar,2025-08-08 23:21:25,New
+Plastic waste causing pollution at Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-07-31 08:46:25,Resolved
+"Road accident reported near Hebbal, need ambulance.",Accident,Emergency,Brigade Road,2025-08-08 04:57:25,New
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,Hebbal,2025-08-26 22:15:25,Acknowledged
+"Murder reported near Koramangala, urgent action needed.",Crime,Emergency,Yeshwanthpur,2025-08-20 17:19:25,Acknowledged
+"Road blocked near Whitefield, vehicles moving slowly.",Traffic,Non-Emergency,BTM Layout,2025-08-07 06:15:25,Resolved
+"Garbage dumped at HSR Layout, smells bad.",Garbage,Non-Emergency,Electronic City,2025-08-24 23:14:25,Acknowledged
+"Murder reported near Koramangala, urgent action needed.",Crime,Emergency,HSR Layout,2025-08-10 20:57:25,Acknowledged
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,BTM Layout,2025-08-02 19:18:25,Resolved
+Medical emergency near MG Road.,Medical,Emergency,Indiranagar,2025-08-19 06:23:25,Resolved
+Water pollution noticed near Electronic City.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-26 23:34:25,New
+Heavy traffic jam at Indiranagar.,Traffic,Non-Emergency,Indiranagar,2025-08-13 22:37:25,Resolved
+Road at Electronic City has multiple potholes.,Potholes,Non-Emergency,Brigade Road,2025-08-16 21:50:25,Resolved
+"Road blocked near Hebbal, vehicles moving slowly.",Traffic,Non-Emergency,Koramangala,2025-08-22 20:11:25,New
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,Electronic City,2025-08-06 17:09:25,New
+Plastic waste causing pollution at Electronic City.,Pollution,Non-Emergency,Koramangala,2025-08-03 08:19:25,Resolved
+Road at Indiranagar has multiple potholes.,Potholes,Non-Emergency,BTM Layout,2025-08-03 17:26:25,Acknowledged
+Heavy traffic jam at BTM Layout.,Traffic,Non-Emergency,Indiranagar,2025-07-29 01:32:25,Resolved
+Robbery reported at Indiranagar.,Crime,Emergency,Brigade Road,2025-07-30 13:55:25,Resolved
+Industrial smoke polluting air at Electronic City.,Pollution,Non-Emergency,MG Road,2025-08-19 08:25:25,Resolved
+Suspicious activity noticed at MG Road.,Crime,Emergency,Koramangala,2025-08-10 03:36:25,Acknowledged
+Plastic waste causing pollution at Yeshwanthpur.,Pollution,Non-Emergency,Brigade Road,2025-08-19 21:22:25,Resolved
+Industrial smoke polluting air at BTM Layout.,Pollution,Non-Emergency,HSR Layout,2025-08-22 03:35:25,New
+Suspicious activity noticed at Yeshwanthpur.,Crime,Emergency,Whitefield,2025-08-25 07:01:25,Acknowledged
+Huge fire reported at Yeshwanthpur.,Fire,Emergency,HSR Layout,2025-08-22 19:55:25,Acknowledged
+Robbery reported at Indiranagar.,Crime,Emergency,Electronic City,2025-08-09 04:34:25,Resolved
+Heavy traffic jam at Koramangala.,Traffic,Non-Emergency,Electronic City,2025-08-14 04:49:25,New
+Industrial smoke polluting air at Electronic City.,Pollution,Non-Emergency,Whitefield,2025-08-04 01:44:25,Acknowledged
+"Smoke rising near HSR Layout, seems like a fire incident.",Fire,Emergency,BTM Layout,2025-08-13 00:43:25,New
+Building caught fire at Yeshwanthpur.,Fire,Emergency,Hebbal,2025-08-04 14:28:25,Acknowledged
+Building caught fire at Koramangala.,Fire,Emergency,Koramangala,2025-08-06 16:30:25,Acknowledged
+Plastic waste causing pollution at BTM Layout.,Pollution,Non-Emergency,Electronic City,2025-08-16 22:29:25,Acknowledged
+Plastic waste causing pollution at Indiranagar.,Pollution,Non-Emergency,Brigade Road,2025-08-08 10:23:25,Resolved
+"Major accident on Yeshwanthpur, multiple vehicles involved.",Accident,Emergency,Yeshwanthpur,2025-08-06 04:43:25,New
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Brigade Road,2025-08-06 03:12:25,New
+Industrial smoke polluting air at Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-26 07:45:25,New
+Heavy traffic jam at Whitefield.,Traffic,Non-Emergency,BTM Layout,2025-08-16 20:12:25,New
+Heart attack case reported at Whitefield.,Medical,Emergency,Indiranagar,2025-07-30 19:01:25,Resolved
+Plastic waste causing pollution at HSR Layout.,Pollution,Non-Emergency,BTM Layout,2025-08-13 00:58:25,Resolved
+Garbage not collected from Indiranagar for 3 days.,Garbage,Non-Emergency,Brigade Road,2025-08-02 06:42:25,New
+Accident causing traffic delays on Yeshwanthpur.,Traffic,Non-Emergency,Whitefield,2025-08-22 03:13:25,Acknowledged
+"Road accident reported near Hebbal, need ambulance.",Accident,Emergency,Koramangala,2025-08-19 00:55:25,New
+Pothole causing accidents near MG Road.,Potholes,Non-Emergency,Indiranagar,2025-08-22 19:43:25,Acknowledged
+Heart attack case reported at Hebbal.,Medical,Emergency,Yeshwanthpur,2025-08-28 00:00:25,Resolved
+Waste blocking road at Indiranagar.,Garbage,Non-Emergency,Yeshwanthpur,2025-07-31 03:15:25,New
+"Injury reported at Whitefield, need hospital support.",Medical,Emergency,Brigade Road,2025-08-03 19:46:25,New
+Road at Electronic City has multiple potholes.,Potholes,Non-Emergency,HSR Layout,2025-08-19 16:21:25,Resolved
+Air pollution level rising around Koramangala.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-22 11:12:25,Resolved
+Suspicious activity noticed at Whitefield.,Crime,Emergency,Electronic City,2025-08-07 20:20:25,New
+Accident causing traffic delays on Indiranagar.,Traffic,Non-Emergency,Koramangala,2025-07-30 23:33:25,Acknowledged
+"Bike accident occurred at Indiranagar, police required.",Accident,Emergency,Whitefield,2025-08-19 09:07:25,Acknowledged
+"Person fainted at Hebbal, need medical help.",Medical,Emergency,Koramangala,2025-08-04 15:39:25,Resolved
+"Road blocked near Brigade Road, vehicles moving slowly.",Traffic,Non-Emergency,Koramangala,2025-07-29 20:47:25,Acknowledged
+"Injury reported at Electronic City, need hospital support.",Medical,Emergency,Koramangala,2025-08-09 08:54:25,Acknowledged
+Huge fire reported at Koramangala.,Fire,Emergency,Brigade Road,2025-08-12 00:39:25,New
+Plastic waste causing pollution at Electronic City.,Pollution,Non-Emergency,Hebbal,2025-07-29 14:06:25,New
+Waste blocking road at HSR Layout.,Garbage,Non-Emergency,Hebbal,2025-08-14 02:00:25,New
+Accident causing traffic delays on Whitefield.,Traffic,Non-Emergency,MG Road,2025-08-17 16:06:25,Acknowledged
+Heavy traffic jam at Indiranagar.,Traffic,Non-Emergency,Indiranagar,2025-08-24 05:48:25,Acknowledged
+"Road accident reported near HSR Layout, need ambulance.",Accident,Emergency,Yeshwanthpur,2025-08-28 14:16:25,New
+Overflowing trash bin near Brigade Road.,Garbage,Non-Emergency,Brigade Road,2025-08-01 23:23:25,New
+Water pollution noticed near Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-09 21:11:25,Resolved
+Dangerous pothole reported at BTM Layout.,Potholes,Non-Emergency,Indiranagar,2025-08-25 18:54:25,Resolved
+Robbery reported at HSR Layout.,Crime,Emergency,Whitefield,2025-08-20 16:21:25,Acknowledged
+Waste blocking road at Yeshwanthpur.,Garbage,Non-Emergency,Koramangala,2025-08-16 00:45:25,Resolved
+"Smoke rising near BTM Layout, seems like a fire incident.",Fire,Emergency,Hebbal,2025-08-25 18:03:25,New
+Suspicious activity noticed at Brigade Road.,Crime,Emergency,Electronic City,2025-08-05 04:53:25,Acknowledged
+"Road accident reported near Hebbal, need ambulance.",Accident,Emergency,Electronic City,2025-08-27 06:15:25,Resolved
+Building caught fire at Hebbal.,Fire,Emergency,BTM Layout,2025-07-30 20:48:25,Acknowledged
+Garbage not collected from Electronic City for 3 days.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-03 23:14:25,Acknowledged
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,HSR Layout,2025-08-08 17:23:25,Acknowledged
+"Garbage dumped at MG Road, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-08-28 10:54:25,Acknowledged
+Emergency! Fire outbreak at Yeshwanthpur.,Fire,Emergency,Electronic City,2025-08-23 14:18:25,Acknowledged
+Heavy traffic jam at Indiranagar.,Traffic,Non-Emergency,Brigade Road,2025-08-24 08:09:25,Acknowledged
+Pothole causing accidents near Electronic City.,Potholes,Non-Emergency,BTM Layout,2025-08-02 20:16:25,New
+Dangerous pothole reported at Electronic City.,Potholes,Non-Emergency,Brigade Road,2025-08-04 10:19:25,Resolved
+Water pollution noticed near Electronic City.,Pollution,Non-Emergency,Koramangala,2025-08-10 05:20:25,Acknowledged
+Waste blocking road at Indiranagar.,Garbage,Non-Emergency,MG Road,2025-07-31 14:40:25,Resolved
+Overflowing trash bin near BTM Layout.,Garbage,Non-Emergency,BTM Layout,2025-08-22 02:12:25,Resolved
+"Person fainted at Brigade Road, need medical help.",Medical,Emergency,Indiranagar,2025-08-21 00:10:25,New
+Emergency! Fire outbreak at Hebbal.,Fire,Emergency,Indiranagar,2025-08-08 22:34:25,Resolved
+"Major accident on Whitefield, multiple vehicles involved.",Accident,Emergency,Koramangala,2025-08-12 09:34:25,New
+Accident causing traffic delays on Hebbal.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-08 09:51:25,Resolved
+Pothole causing accidents near Yeshwanthpur.,Potholes,Non-Emergency,Indiranagar,2025-08-10 19:09:25,New
+"Garbage dumped at Yeshwanthpur, smells bad.",Garbage,Non-Emergency,Whitefield,2025-08-07 11:50:25,New
+Pothole causing accidents near Electronic City.,Potholes,Non-Emergency,Brigade Road,2025-08-24 20:09:25,Acknowledged
+Waste blocking road at Brigade Road.,Garbage,Non-Emergency,Brigade Road,2025-08-09 23:17:25,New
+Heart attack case reported at Yeshwanthpur.,Medical,Emergency,HSR Layout,2025-08-01 16:32:25,Acknowledged
+Industrial smoke polluting air at Electronic City.,Pollution,Non-Emergency,Brigade Road,2025-08-28 15:17:25,Resolved
+"Huge pothole on HSR Layout, risky for bikers.",Potholes,Non-Emergency,Brigade Road,2025-08-13 23:44:25,Acknowledged
+"Fight broke out at Koramangala, police required.",Crime,Emergency,Koramangala,2025-08-07 11:55:25,Resolved
+"Injury reported at Electronic City, need hospital support.",Medical,Emergency,Koramangala,2025-07-30 04:07:25,Acknowledged
+"Murder reported near Indiranagar, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-24 15:49:25,Acknowledged
+Pothole causing accidents near Whitefield.,Potholes,Non-Emergency,Whitefield,2025-08-24 08:56:25,Acknowledged
+Traffic congestion reported at Whitefield.,Traffic,Non-Emergency,Brigade Road,2025-08-15 04:39:25,Acknowledged
+Suspicious activity noticed at Electronic City.,Crime,Emergency,HSR Layout,2025-08-16 01:59:25,Resolved
+Heart attack case reported at Hebbal.,Medical,Emergency,Koramangala,2025-07-29 07:42:25,New
+Overflowing trash bin near MG Road.,Garbage,Non-Emergency,Indiranagar,2025-07-30 18:05:25,Acknowledged
+Medical emergency near Koramangala.,Medical,Emergency,Hebbal,2025-08-22 01:23:25,Resolved
+Garbage not collected from Koramangala for 3 days.,Garbage,Non-Emergency,Indiranagar,2025-08-06 20:36:25,Acknowledged
+Building caught fire at Koramangala.,Fire,Emergency,Whitefield,2025-08-20 08:30:25,Resolved
+"Fight broke out at Yeshwanthpur, police required.",Crime,Emergency,Indiranagar,2025-08-18 16:39:25,Acknowledged
+Heart attack case reported at Hebbal.,Medical,Emergency,Brigade Road,2025-08-16 23:10:25,New
+"Bike accident occurred at Hebbal, police required.",Accident,Emergency,Brigade Road,2025-08-12 20:32:25,New
+"Garbage dumped at Whitefield, smells bad.",Garbage,Non-Emergency,HSR Layout,2025-08-06 17:53:25,Resolved
+"Bike accident occurred at HSR Layout, police required.",Accident,Emergency,Yeshwanthpur,2025-08-19 01:38:25,New
+Heart attack case reported at HSR Layout.,Medical,Emergency,Brigade Road,2025-07-31 01:46:25,Resolved
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,Indiranagar,2025-08-27 15:12:25,Acknowledged
+"Car crash at Brigade Road, traffic blocked.",Accident,Emergency,Whitefield,2025-08-13 20:44:25,New
+Pothole causing accidents near BTM Layout.,Potholes,Non-Emergency,Indiranagar,2025-08-09 11:32:25,Acknowledged
+"Murder reported near Hebbal, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-17 06:09:25,Acknowledged
+"Car crash at Yeshwanthpur, traffic blocked.",Accident,Emergency,BTM Layout,2025-08-27 19:38:25,New
+Air pollution level rising around Indiranagar.,Pollution,Non-Emergency,Indiranagar,2025-08-25 14:36:25,Resolved
+Industrial smoke polluting air at Indiranagar.,Pollution,Non-Emergency,Hebbal,2025-08-23 13:52:25,Acknowledged
+Emergency! Fire outbreak at Yeshwanthpur.,Fire,Emergency,Brigade Road,2025-08-06 00:14:25,New
+"Injury reported at HSR Layout, need hospital support.",Medical,Emergency,MG Road,2025-08-05 19:01:25,New
+"Smoke rising near HSR Layout, seems like a fire incident.",Fire,Emergency,Brigade Road,2025-08-24 04:24:25,New
+Robbery reported at HSR Layout.,Crime,Emergency,Koramangala,2025-08-23 01:03:25,Resolved
+"Road blocked near BTM Layout, vehicles moving slowly.",Traffic,Non-Emergency,Hebbal,2025-08-12 23:32:25,New
+Garbage not collected from MG Road for 3 days.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-15 11:37:25,Resolved
+Garbage not collected from Brigade Road for 3 days.,Garbage,Non-Emergency,Whitefield,2025-08-21 13:54:25,Resolved
+Heart attack case reported at Yeshwanthpur.,Medical,Emergency,Brigade Road,2025-08-08 22:06:25,Acknowledged
+Plastic waste causing pollution at Hebbal.,Pollution,Non-Emergency,Yeshwanthpur,2025-07-30 14:03:25,Resolved
+"Major accident on Koramangala, multiple vehicles involved.",Accident,Emergency,Electronic City,2025-08-02 20:44:25,New
+Traffic congestion reported at Koramangala.,Traffic,Non-Emergency,MG Road,2025-08-20 04:41:25,Resolved
+"Fight broke out at Indiranagar, police required.",Crime,Emergency,Hebbal,2025-08-28 06:51:25,Resolved
+Overflowing trash bin near Electronic City.,Garbage,Non-Emergency,Electronic City,2025-08-09 17:58:25,Resolved
+Industrial smoke polluting air at Yeshwanthpur.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-20 16:56:25,Acknowledged
+Heavy traffic jam at Whitefield.,Traffic,Non-Emergency,Electronic City,2025-08-07 18:38:25,Acknowledged
+"Murder reported near HSR Layout, urgent action needed.",Crime,Emergency,HSR Layout,2025-08-27 13:08:25,Resolved
+Pothole causing accidents near Indiranagar.,Potholes,Non-Emergency,Koramangala,2025-08-01 23:25:25,Acknowledged
+"Major accident on BTM Layout, multiple vehicles involved.",Accident,Emergency,Whitefield,2025-07-31 03:35:25,Acknowledged
+Robbery reported at MG Road.,Crime,Emergency,Hebbal,2025-08-13 19:55:25,New
+Dangerous pothole reported at HSR Layout.,Potholes,Non-Emergency,Whitefield,2025-08-24 12:03:25,Acknowledged
+"Injury reported at Whitefield, need hospital support.",Medical,Emergency,BTM Layout,2025-08-23 15:36:25,Acknowledged
+Industrial smoke polluting air at Electronic City.,Pollution,Non-Emergency,Brigade Road,2025-08-16 14:31:25,Resolved
+"Murder reported near Brigade Road, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-08 12:36:25,Acknowledged
+Robbery reported at Whitefield.,Crime,Emergency,Brigade Road,2025-08-03 17:29:25,Resolved
+"Car crash at Yeshwanthpur, traffic blocked.",Accident,Emergency,Electronic City,2025-07-31 15:31:25,New
+Robbery reported at BTM Layout.,Crime,Emergency,Electronic City,2025-08-25 07:09:25,Resolved
+Road at MG Road has multiple potholes.,Potholes,Non-Emergency,Brigade Road,2025-08-19 14:32:25,Acknowledged
+Building caught fire at Indiranagar.,Fire,Emergency,Indiranagar,2025-08-16 18:15:25,New
+"Road blocked near Yeshwanthpur, vehicles moving slowly.",Traffic,Non-Emergency,Yeshwanthpur,2025-08-25 04:32:25,Acknowledged
+Robbery reported at MG Road.,Crime,Emergency,Yeshwanthpur,2025-08-19 08:25:25,Acknowledged
+Robbery reported at Hebbal.,Crime,Emergency,Electronic City,2025-08-03 18:22:25,New
+Huge fire reported at Brigade Road.,Fire,Emergency,Whitefield,2025-07-29 03:59:25,New
+Huge fire reported at Whitefield.,Fire,Emergency,HSR Layout,2025-08-11 17:35:25,Resolved
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Koramangala,2025-08-04 17:43:25,Acknowledged
+"Person fainted at Yeshwanthpur, need medical help.",Medical,Emergency,BTM Layout,2025-08-19 09:32:25,Resolved
+Accident causing traffic delays on Electronic City.,Traffic,Non-Emergency,MG Road,2025-08-14 20:07:25,Resolved
+Garbage not collected from Indiranagar for 3 days.,Garbage,Non-Emergency,MG Road,2025-08-23 05:06:25,New
+Heart attack case reported at MG Road.,Medical,Emergency,Yeshwanthpur,2025-08-09 14:48:25,Acknowledged
+Overflowing trash bin near Brigade Road.,Garbage,Non-Emergency,Electronic City,2025-08-12 13:45:25,Acknowledged
+"Smoke rising near BTM Layout, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-08-06 23:52:25,Resolved
+Waste blocking road at MG Road.,Garbage,Non-Emergency,BTM Layout,2025-08-23 22:14:25,Acknowledged
+Dangerous pothole reported at Yeshwanthpur.,Potholes,Non-Emergency,HSR Layout,2025-08-08 07:39:25,Acknowledged
+"Bike accident occurred at Whitefield, police required.",Accident,Emergency,Brigade Road,2025-08-08 15:00:25,Acknowledged
+"Murder reported near Koramangala, urgent action needed.",Crime,Emergency,MG Road,2025-08-07 08:39:25,New
+Dangerous pothole reported at Indiranagar.,Potholes,Non-Emergency,HSR Layout,2025-08-03 06:22:25,New
+"Bike accident occurred at Koramangala, police required.",Accident,Emergency,MG Road,2025-08-10 06:48:25,Acknowledged
+"Garbage dumped at BTM Layout, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-08-25 21:05:25,Acknowledged
+"Murder reported near Whitefield, urgent action needed.",Crime,Emergency,Hebbal,2025-08-04 08:09:25,Acknowledged
+"Bike accident occurred at BTM Layout, police required.",Accident,Emergency,MG Road,2025-07-30 03:47:25,New
+"Major accident on Indiranagar, multiple vehicles involved.",Accident,Emergency,MG Road,2025-08-26 16:53:25,Resolved
+"Major accident on Yeshwanthpur, multiple vehicles involved.",Accident,Emergency,Whitefield,2025-08-24 22:29:25,Acknowledged
+Dangerous pothole reported at Whitefield.,Potholes,Non-Emergency,Electronic City,2025-08-20 16:16:25,New
+"Smoke rising near Indiranagar, seems like a fire incident.",Fire,Emergency,Electronic City,2025-08-25 18:44:25,Acknowledged
+"Bike accident occurred at Indiranagar, police required.",Accident,Emergency,Hebbal,2025-08-03 22:28:25,Resolved
+Overflowing trash bin near Electronic City.,Garbage,Non-Emergency,MG Road,2025-08-09 11:00:25,New
+"Garbage dumped at Indiranagar, smells bad.",Garbage,Non-Emergency,Koramangala,2025-08-18 06:00:25,Acknowledged
+Pothole causing accidents near Whitefield.,Potholes,Non-Emergency,BTM Layout,2025-08-03 06:11:25,New
+Accident causing traffic delays on HSR Layout.,Traffic,Non-Emergency,Indiranagar,2025-08-20 07:02:25,Acknowledged
+Huge fire reported at Whitefield.,Fire,Emergency,Yeshwanthpur,2025-07-30 16:06:25,Resolved
+Plastic waste causing pollution at Electronic City.,Pollution,Non-Emergency,HSR Layout,2025-08-19 06:58:25,Acknowledged
+"Person fainted at Yeshwanthpur, need medical help.",Medical,Emergency,HSR Layout,2025-07-30 17:05:25,New
+Overflowing trash bin near HSR Layout.,Garbage,Non-Emergency,HSR Layout,2025-08-05 10:54:25,New
+Dangerous pothole reported at MG Road.,Potholes,Non-Emergency,Indiranagar,2025-08-27 23:22:25,New
+Emergency! Fire outbreak at HSR Layout.,Fire,Emergency,Hebbal,2025-08-07 14:53:25,New
+Accident causing traffic delays on Indiranagar.,Traffic,Non-Emergency,Brigade Road,2025-08-03 12:40:25,Resolved
+Robbery reported at Indiranagar.,Crime,Emergency,Brigade Road,2025-08-04 10:15:25,New
+Pothole causing accidents near Indiranagar.,Potholes,Non-Emergency,MG Road,2025-08-16 10:03:25,Resolved
+"Smoke rising near Indiranagar, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-06 06:21:25,Resolved
+"Murder reported near Hebbal, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-03 21:02:25,New
+"Major accident on Electronic City, multiple vehicles involved.",Accident,Emergency,Whitefield,2025-08-24 22:44:25,Acknowledged
+Air pollution level rising around BTM Layout.,Pollution,Non-Emergency,Hebbal,2025-08-07 04:42:25,New
+Road at HSR Layout has multiple potholes.,Potholes,Non-Emergency,Brigade Road,2025-08-19 00:55:25,Acknowledged
+"Major accident on Brigade Road, multiple vehicles involved.",Accident,Emergency,BTM Layout,2025-08-08 09:28:25,Resolved
+Water pollution noticed near Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-10 05:02:25,New
+Heart attack case reported at BTM Layout.,Medical,Emergency,HSR Layout,2025-08-24 11:31:25,Resolved
+"Injury reported at Indiranagar, need hospital support.",Medical,Emergency,Electronic City,2025-08-14 11:49:25,New
+Huge fire reported at Hebbal.,Fire,Emergency,Brigade Road,2025-08-19 04:12:25,Resolved
+Garbage not collected from MG Road for 3 days.,Garbage,Non-Emergency,MG Road,2025-07-31 22:38:25,Resolved
+Accident causing traffic delays on Whitefield.,Traffic,Non-Emergency,Whitefield,2025-08-14 05:55:25,Acknowledged
+"Road blocked near Yeshwanthpur, vehicles moving slowly.",Traffic,Non-Emergency,Whitefield,2025-08-13 13:21:25,Acknowledged
+"Road blocked near BTM Layout, vehicles moving slowly.",Traffic,Non-Emergency,MG Road,2025-08-16 16:10:25,New
+Air pollution level rising around Brigade Road.,Pollution,Non-Emergency,Hebbal,2025-07-30 14:47:25,New
+Robbery reported at Whitefield.,Crime,Emergency,MG Road,2025-08-25 02:43:25,New
+Air pollution level rising around BTM Layout.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-15 12:12:25,New
+Industrial smoke polluting air at Whitefield.,Pollution,Non-Emergency,Brigade Road,2025-08-05 19:33:25,Resolved
+"Garbage dumped at Whitefield, smells bad.",Garbage,Non-Emergency,Hebbal,2025-08-26 16:58:25,Resolved
+Dangerous pothole reported at Hebbal.,Potholes,Non-Emergency,Koramangala,2025-08-11 21:16:25,Resolved
+Waste blocking road at Yeshwanthpur.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-07 19:27:25,New
+Overflowing trash bin near Whitefield.,Garbage,Non-Emergency,HSR Layout,2025-08-24 15:23:25,New
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Hebbal,2025-08-19 09:39:25,Resolved
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-07-30 06:11:25,Resolved
+Air pollution level rising around Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-11 22:26:25,New
+Emergency! Fire outbreak at Brigade Road.,Fire,Emergency,MG Road,2025-07-29 20:15:25,Resolved
+Dangerous pothole reported at HSR Layout.,Potholes,Non-Emergency,BTM Layout,2025-08-21 13:58:25,Acknowledged
+Heart attack case reported at Electronic City.,Medical,Emergency,MG Road,2025-08-05 08:15:25,Acknowledged
+Air pollution level rising around Whitefield.,Pollution,Non-Emergency,BTM Layout,2025-08-28 08:37:25,Acknowledged
+"Smoke rising near BTM Layout, seems like a fire incident.",Fire,Emergency,Hebbal,2025-08-21 05:38:25,Resolved
+Pothole causing accidents near Koramangala.,Potholes,Non-Emergency,Whitefield,2025-08-08 04:30:25,Resolved
+"Huge pothole on Koramangala, risky for bikers.",Potholes,Non-Emergency,Hebbal,2025-08-11 12:22:25,Acknowledged
+Road at BTM Layout has multiple potholes.,Potholes,Non-Emergency,Brigade Road,2025-08-01 18:24:25,New
+"Major accident on Hebbal, multiple vehicles involved.",Accident,Emergency,MG Road,2025-08-19 02:14:25,Acknowledged
+"Murder reported near Yeshwanthpur, urgent action needed.",Crime,Emergency,Electronic City,2025-08-11 22:51:25,New
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,HSR Layout,2025-08-13 10:11:25,New
+"Car crash at Electronic City, traffic blocked.",Accident,Emergency,Brigade Road,2025-08-25 10:13:25,Resolved
+Suspicious activity noticed at MG Road.,Crime,Emergency,Electronic City,2025-08-22 14:14:25,Resolved
+Industrial smoke polluting air at Hebbal.,Pollution,Non-Emergency,Brigade Road,2025-08-02 12:16:25,Acknowledged
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-05 13:12:25,New
+"Car crash at Hebbal, traffic blocked.",Accident,Emergency,Hebbal,2025-08-23 10:46:25,Acknowledged
+Huge fire reported at BTM Layout.,Fire,Emergency,Koramangala,2025-08-05 20:43:25,Acknowledged
+Air pollution level rising around Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-07-31 02:07:25,Acknowledged
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-08 23:07:25,New
+Plastic waste causing pollution at BTM Layout.,Pollution,Non-Emergency,Whitefield,2025-08-05 06:33:25,Resolved
+Garbage not collected from Whitefield for 3 days.,Garbage,Non-Emergency,Indiranagar,2025-08-18 09:24:25,Resolved
+"Road blocked near Indiranagar, vehicles moving slowly.",Traffic,Non-Emergency,Indiranagar,2025-08-27 00:24:25,Resolved
+"Garbage dumped at Indiranagar, smells bad.",Garbage,Non-Emergency,Indiranagar,2025-08-24 23:46:25,Resolved
+Dangerous pothole reported at Indiranagar.,Potholes,Non-Emergency,Whitefield,2025-08-05 12:28:25,New
+"Bike accident occurred at Hebbal, police required.",Accident,Emergency,Hebbal,2025-08-10 06:09:25,New
+Plastic waste causing pollution at Hebbal.,Pollution,Non-Emergency,HSR Layout,2025-08-15 18:56:25,New
+Medical emergency near Brigade Road.,Medical,Emergency,Yeshwanthpur,2025-08-11 17:05:25,New
+Heavy traffic jam at BTM Layout.,Traffic,Non-Emergency,Koramangala,2025-08-16 15:57:25,New
+Medical emergency near MG Road.,Medical,Emergency,Koramangala,2025-08-22 06:32:25,New
+Traffic congestion reported at Yeshwanthpur.,Traffic,Non-Emergency,Koramangala,2025-07-29 01:28:25,Acknowledged
+"Major accident on HSR Layout, multiple vehicles involved.",Accident,Emergency,HSR Layout,2025-08-10 10:57:25,Resolved
+"Smoke rising near Brigade Road, seems like a fire incident.",Fire,Emergency,BTM Layout,2025-08-08 11:00:25,Acknowledged
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,Electronic City,2025-08-15 05:28:25,Resolved
+"Huge pothole on Hebbal, risky for bikers.",Potholes,Non-Emergency,MG Road,2025-08-08 10:45:25,Resolved
+Waste blocking road at Electronic City.,Garbage,Non-Emergency,Koramangala,2025-08-25 20:20:25,Resolved
+Industrial smoke polluting air at MG Road.,Pollution,Non-Emergency,BTM Layout,2025-07-30 15:22:25,New
+Traffic congestion reported at Koramangala.,Traffic,Non-Emergency,MG Road,2025-07-30 08:05:25,Resolved
+"Huge pothole on Whitefield, risky for bikers.",Potholes,Non-Emergency,MG Road,2025-07-30 08:17:25,New
+"Car crash at MG Road, traffic blocked.",Accident,Emergency,Koramangala,2025-08-11 19:27:25,Acknowledged
+"Person fainted at Koramangala, need medical help.",Medical,Emergency,Koramangala,2025-08-05 09:30:25,Acknowledged
+"Major accident on Electronic City, multiple vehicles involved.",Accident,Emergency,Indiranagar,2025-08-20 03:32:25,New
+"Road blocked near Indiranagar, vehicles moving slowly.",Traffic,Non-Emergency,HSR Layout,2025-08-14 09:30:25,Resolved
+"Bike accident occurred at MG Road, police required.",Accident,Emergency,Hebbal,2025-08-23 04:19:25,Acknowledged
+Industrial smoke polluting air at Hebbal.,Pollution,Non-Emergency,Indiranagar,2025-08-12 20:45:25,Acknowledged
+Heavy traffic jam at Koramangala.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-20 18:44:25,Resolved
+Dangerous pothole reported at Koramangala.,Potholes,Non-Emergency,BTM Layout,2025-08-27 06:53:25,New
+Huge fire reported at Yeshwanthpur.,Fire,Emergency,HSR Layout,2025-08-24 05:20:25,Resolved
+Water pollution noticed near MG Road.,Pollution,Non-Emergency,Koramangala,2025-08-16 14:00:25,Acknowledged
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,Hebbal,2025-08-26 10:43:25,Acknowledged
+Plastic waste causing pollution at Indiranagar.,Pollution,Non-Emergency,Indiranagar,2025-08-02 23:39:25,New
+"Bike accident occurred at Indiranagar, police required.",Accident,Emergency,Brigade Road,2025-08-05 23:02:25,Resolved
+Road at Indiranagar has multiple potholes.,Potholes,Non-Emergency,Brigade Road,2025-08-05 02:08:25,Acknowledged
+Pothole causing accidents near Indiranagar.,Potholes,Non-Emergency,Electronic City,2025-07-29 14:35:25,Resolved
+"Bike accident occurred at Koramangala, police required.",Accident,Emergency,Koramangala,2025-08-11 13:33:25,Acknowledged
+Emergency! Fire outbreak at Brigade Road.,Fire,Emergency,Electronic City,2025-08-07 02:38:25,Acknowledged
+"Fight broke out at BTM Layout, police required.",Crime,Emergency,HSR Layout,2025-08-16 14:01:25,New
+Dangerous pothole reported at Koramangala.,Potholes,Non-Emergency,Electronic City,2025-08-08 16:45:25,Resolved
+"Person fainted at Hebbal, need medical help.",Medical,Emergency,Koramangala,2025-08-11 09:06:25,Acknowledged
+Heart attack case reported at Yeshwanthpur.,Medical,Emergency,Whitefield,2025-08-01 16:46:25,Resolved
+"Bike accident occurred at Whitefield, police required.",Accident,Emergency,Koramangala,2025-08-07 04:45:25,Resolved
+"Person fainted at Hebbal, need medical help.",Medical,Emergency,Hebbal,2025-08-17 17:42:25,Resolved
+Building caught fire at Hebbal.,Fire,Emergency,Koramangala,2025-08-14 13:13:25,Resolved
+"Road blocked near Whitefield, vehicles moving slowly.",Traffic,Non-Emergency,Hebbal,2025-07-31 17:43:25,Resolved
+"Fight broke out at Electronic City, police required.",Crime,Emergency,Yeshwanthpur,2025-08-24 06:07:25,Resolved
+"Huge pothole on Brigade Road, risky for bikers.",Potholes,Non-Emergency,Koramangala,2025-08-01 07:13:25,Resolved
+"Injury reported at MG Road, need hospital support.",Medical,Emergency,BTM Layout,2025-08-28 09:45:25,Acknowledged
+Robbery reported at Hebbal.,Crime,Emergency,BTM Layout,2025-08-06 15:05:25,Acknowledged
+"Murder reported near Indiranagar, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-03 10:08:25,Acknowledged
+"Bike accident occurred at Electronic City, police required.",Accident,Emergency,HSR Layout,2025-08-15 01:20:25,New
+"Person fainted at HSR Layout, need medical help.",Medical,Emergency,MG Road,2025-08-09 04:09:25,New
+Garbage not collected from Yeshwanthpur for 3 days.,Garbage,Non-Emergency,Koramangala,2025-08-04 00:02:25,New
+Industrial smoke polluting air at Indiranagar.,Pollution,Non-Emergency,HSR Layout,2025-07-30 22:02:25,New
+"Car crash at Yeshwanthpur, traffic blocked.",Accident,Emergency,Hebbal,2025-07-31 10:32:25,Resolved
+Suspicious activity noticed at HSR Layout.,Crime,Emergency,Whitefield,2025-08-11 07:33:25,Resolved
+"Garbage dumped at BTM Layout, smells bad.",Garbage,Non-Emergency,Brigade Road,2025-08-13 03:48:25,Acknowledged
+Dangerous pothole reported at MG Road.,Potholes,Non-Emergency,MG Road,2025-08-03 02:45:25,Resolved
+Plastic waste causing pollution at HSR Layout.,Pollution,Non-Emergency,Hebbal,2025-08-06 07:49:25,Acknowledged
+"Person fainted at BTM Layout, need medical help.",Medical,Emergency,Indiranagar,2025-08-23 19:23:25,New
+"Garbage dumped at Koramangala, smells bad.",Garbage,Non-Emergency,Koramangala,2025-07-28 19:49:25,New
+Medical emergency near Indiranagar.,Medical,Emergency,Electronic City,2025-08-07 13:02:25,Acknowledged
+"Car crash at Hebbal, traffic blocked.",Accident,Emergency,Koramangala,2025-08-26 15:39:25,Resolved
+Suspicious activity noticed at Hebbal.,Crime,Emergency,BTM Layout,2025-08-03 02:08:25,New
+Robbery reported at Whitefield.,Crime,Emergency,Hebbal,2025-08-21 16:34:25,Resolved
+Heart attack case reported at Brigade Road.,Medical,Emergency,Whitefield,2025-07-31 20:55:25,New
+"Road accident reported near Brigade Road, need ambulance.",Accident,Emergency,Electronic City,2025-08-08 19:58:25,Acknowledged
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,BTM Layout,2025-08-01 10:14:25,Acknowledged
+Garbage not collected from MG Road for 3 days.,Garbage,Non-Emergency,Brigade Road,2025-08-22 01:42:25,New
+Huge fire reported at Electronic City.,Fire,Emergency,Electronic City,2025-08-21 20:45:25,Resolved
+Pothole causing accidents near MG Road.,Potholes,Non-Emergency,Indiranagar,2025-07-30 16:58:25,Resolved
+Robbery reported at Whitefield.,Crime,Emergency,Electronic City,2025-08-21 13:24:25,Resolved
+"Murder reported near MG Road, urgent action needed.",Crime,Emergency,Koramangala,2025-08-10 12:33:25,Acknowledged
+Overflowing trash bin near Brigade Road.,Garbage,Non-Emergency,Electronic City,2025-08-12 18:03:25,Resolved
+Emergency! Fire outbreak at BTM Layout.,Fire,Emergency,HSR Layout,2025-08-22 13:36:25,Acknowledged
+"Injury reported at MG Road, need hospital support.",Medical,Emergency,BTM Layout,2025-08-06 15:46:25,New
+"Huge pothole on Indiranagar, risky for bikers.",Potholes,Non-Emergency,Yeshwanthpur,2025-08-03 08:48:25,New
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,MG Road,2025-08-24 10:25:25,New
+"Garbage dumped at Indiranagar, smells bad.",Garbage,Non-Emergency,Koramangala,2025-08-09 22:56:25,Resolved
+"Huge pothole on BTM Layout, risky for bikers.",Potholes,Non-Emergency,BTM Layout,2025-08-08 13:57:25,Resolved
+Heart attack case reported at HSR Layout.,Medical,Emergency,BTM Layout,2025-08-21 15:46:25,Resolved
+"Injury reported at Brigade Road, need hospital support.",Medical,Emergency,Electronic City,2025-07-31 19:55:25,New
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,Yeshwanthpur,2025-08-22 23:15:25,Acknowledged
+"Bike accident occurred at Koramangala, police required.",Accident,Emergency,Brigade Road,2025-08-26 02:43:25,Acknowledged
+Waste blocking road at Whitefield.,Garbage,Non-Emergency,HSR Layout,2025-08-19 01:20:25,Acknowledged
+"Fight broke out at Koramangala, police required.",Crime,Emergency,Whitefield,2025-08-03 08:21:25,Acknowledged
+Dangerous pothole reported at Yeshwanthpur.,Potholes,Non-Emergency,Whitefield,2025-08-16 20:52:25,New
+"Smoke rising near Yeshwanthpur, seems like a fire incident.",Fire,Emergency,Hebbal,2025-07-31 11:15:25,Resolved
+Water pollution noticed near BTM Layout.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-07 21:40:25,Resolved
+Road at Hebbal has multiple potholes.,Potholes,Non-Emergency,Indiranagar,2025-08-08 06:32:25,Acknowledged
+Road at MG Road has multiple potholes.,Potholes,Non-Emergency,MG Road,2025-08-03 15:17:25,Acknowledged
+"Road accident reported near Whitefield, need ambulance.",Accident,Emergency,Whitefield,2025-08-19 19:43:25,Acknowledged
+Water pollution noticed near MG Road.,Pollution,Non-Emergency,Hebbal,2025-08-04 20:55:25,New
+"Huge pothole on Hebbal, risky for bikers.",Potholes,Non-Emergency,Brigade Road,2025-08-06 02:07:25,Resolved
+"Major accident on Yeshwanthpur, multiple vehicles involved.",Accident,Emergency,Koramangala,2025-07-30 02:47:25,Resolved
+Heart attack case reported at Hebbal.,Medical,Emergency,Electronic City,2025-08-09 08:22:25,Acknowledged
+Heart attack case reported at MG Road.,Medical,Emergency,HSR Layout,2025-08-06 06:03:25,New
+"Car crash at MG Road, traffic blocked.",Accident,Emergency,Yeshwanthpur,2025-08-06 23:16:25,New
+"Road accident reported near BTM Layout, need ambulance.",Accident,Emergency,Brigade Road,2025-08-19 18:44:25,Acknowledged
+"Fight broke out at Hebbal, police required.",Crime,Emergency,Yeshwanthpur,2025-08-23 02:58:25,Acknowledged
+Robbery reported at MG Road.,Crime,Emergency,Koramangala,2025-08-02 12:39:25,Acknowledged
+"Car crash at Whitefield, traffic blocked.",Accident,Emergency,Indiranagar,2025-08-20 19:22:25,New
+Huge fire reported at Electronic City.,Fire,Emergency,Yeshwanthpur,2025-08-08 21:52:25,New
+Overflowing trash bin near Electronic City.,Garbage,Non-Emergency,HSR Layout,2025-07-29 04:02:25,New
+Accident causing traffic delays on Yeshwanthpur.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-18 01:15:25,Resolved
+"Smoke rising near Electronic City, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-15 17:52:25,Resolved
+Robbery reported at Brigade Road.,Crime,Emergency,BTM Layout,2025-08-05 00:55:25,Acknowledged
+"Injury reported at Hebbal, need hospital support.",Medical,Emergency,Brigade Road,2025-08-16 15:14:25,New
+"Person fainted at Brigade Road, need medical help.",Medical,Emergency,Koramangala,2025-08-27 06:02:25,Resolved
+Dangerous pothole reported at Koramangala.,Potholes,Non-Emergency,Indiranagar,2025-08-09 10:50:25,Acknowledged
+"Garbage dumped at HSR Layout, smells bad.",Garbage,Non-Emergency,MG Road,2025-08-27 06:07:25,Resolved
+"Bike accident occurred at Brigade Road, police required.",Accident,Emergency,Yeshwanthpur,2025-08-04 22:53:25,Resolved
+"Person fainted at Hebbal, need medical help.",Medical,Emergency,Koramangala,2025-07-31 08:19:25,New
+Heart attack case reported at Electronic City.,Medical,Emergency,Whitefield,2025-08-23 23:05:25,Acknowledged
+"Injury reported at Hebbal, need hospital support.",Medical,Emergency,Electronic City,2025-08-03 19:25:25,Resolved
+Traffic congestion reported at BTM Layout.,Traffic,Non-Emergency,Whitefield,2025-08-17 02:16:25,Resolved
+Garbage not collected from BTM Layout for 3 days.,Garbage,Non-Emergency,Koramangala,2025-08-20 18:00:25,New
+"Fight broke out at Brigade Road, police required.",Crime,Emergency,Electronic City,2025-08-18 05:15:25,New
+Huge fire reported at Yeshwanthpur.,Fire,Emergency,HSR Layout,2025-08-09 23:14:25,Acknowledged
+"Bike accident occurred at Whitefield, police required.",Accident,Emergency,HSR Layout,2025-08-13 16:28:25,New
+"Smoke rising near Koramangala, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-08-09 16:45:25,Acknowledged
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-22 03:46:25,Resolved
+Heavy traffic jam at Indiranagar.,Traffic,Non-Emergency,Hebbal,2025-08-16 08:16:25,New
+Medical emergency near Yeshwanthpur.,Medical,Emergency,HSR Layout,2025-08-13 03:51:25,New
+Industrial smoke polluting air at Brigade Road.,Pollution,Non-Emergency,HSR Layout,2025-08-07 08:44:25,New
+Dangerous pothole reported at BTM Layout.,Potholes,Non-Emergency,HSR Layout,2025-08-22 02:24:25,New
+Plastic waste causing pollution at MG Road.,Pollution,Non-Emergency,Indiranagar,2025-08-15 02:03:25,Resolved
+Plastic waste causing pollution at BTM Layout.,Pollution,Non-Emergency,Indiranagar,2025-08-14 00:15:25,New
+Road at BTM Layout has multiple potholes.,Potholes,Non-Emergency,BTM Layout,2025-07-29 17:40:25,Acknowledged
+"Smoke rising near MG Road, seems like a fire incident.",Fire,Emergency,BTM Layout,2025-08-26 10:03:25,Resolved
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Electronic City,2025-08-16 00:14:25,Acknowledged
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,Indiranagar,2025-08-26 06:59:25,Resolved
+Pothole causing accidents near Brigade Road.,Potholes,Non-Emergency,HSR Layout,2025-07-29 09:32:25,Resolved
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,Brigade Road,2025-08-04 23:55:25,New
+Plastic waste causing pollution at Yeshwanthpur.,Pollution,Non-Emergency,Electronic City,2025-08-26 02:32:25,New
+"Injury reported at Whitefield, need hospital support.",Medical,Emergency,Koramangala,2025-08-20 11:15:25,Resolved
+Heart attack case reported at Koramangala.,Medical,Emergency,Hebbal,2025-08-27 07:00:25,Acknowledged
+Water pollution noticed near Brigade Road.,Pollution,Non-Emergency,MG Road,2025-08-03 00:40:25,Resolved
+Building caught fire at Koramangala.,Fire,Emergency,HSR Layout,2025-08-16 05:02:25,Resolved
+Emergency! Fire outbreak at Indiranagar.,Fire,Emergency,Koramangala,2025-08-21 16:01:25,Resolved
+"Smoke rising near BTM Layout, seems like a fire incident.",Fire,Emergency,MG Road,2025-08-05 16:17:25,Resolved
+"Garbage dumped at Yeshwanthpur, smells bad.",Garbage,Non-Emergency,Indiranagar,2025-08-28 16:31:25,Acknowledged
+"Smoke rising near Hebbal, seems like a fire incident.",Fire,Emergency,BTM Layout,2025-08-01 08:56:25,New
+"Injury reported at MG Road, need hospital support.",Medical,Emergency,Hebbal,2025-08-25 16:52:25,New
+Robbery reported at Indiranagar.,Crime,Emergency,HSR Layout,2025-08-18 22:32:25,New
+"Major accident on Whitefield, multiple vehicles involved.",Accident,Emergency,BTM Layout,2025-08-02 12:06:25,New
+Suspicious activity noticed at BTM Layout.,Crime,Emergency,MG Road,2025-08-02 07:59:25,New
+Suspicious activity noticed at Koramangala.,Crime,Emergency,Yeshwanthpur,2025-08-25 00:33:25,Acknowledged
+Plastic waste causing pollution at MG Road.,Pollution,Non-Emergency,Electronic City,2025-07-29 12:56:25,New
+Water pollution noticed near BTM Layout.,Pollution,Non-Emergency,BTM Layout,2025-08-07 10:45:25,Acknowledged
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,Hebbal,2025-08-12 11:11:25,New
+Suspicious activity noticed at BTM Layout.,Crime,Emergency,Whitefield,2025-08-14 17:47:25,New
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-17 16:35:25,New
+"Huge pothole on MG Road, risky for bikers.",Potholes,Non-Emergency,Hebbal,2025-08-02 11:16:25,New
+Industrial smoke polluting air at Koramangala.,Pollution,Non-Emergency,Koramangala,2025-08-21 22:41:25,Acknowledged
+Garbage not collected from Yeshwanthpur for 3 days.,Garbage,Non-Emergency,BTM Layout,2025-08-08 03:38:25,New
+"Major accident on Electronic City, multiple vehicles involved.",Accident,Emergency,Indiranagar,2025-07-29 02:50:25,New
+Emergency! Fire outbreak at Hebbal.,Fire,Emergency,Electronic City,2025-08-11 20:30:25,Resolved
+"Bike accident occurred at BTM Layout, police required.",Accident,Emergency,Brigade Road,2025-07-30 10:30:25,Acknowledged
+"Road accident reported near Whitefield, need ambulance.",Accident,Emergency,Hebbal,2025-08-02 04:52:25,Resolved
+Building caught fire at Brigade Road.,Fire,Emergency,Koramangala,2025-08-20 13:45:25,New
+"Car crash at Electronic City, traffic blocked.",Accident,Emergency,BTM Layout,2025-08-01 20:42:25,New
+"Smoke rising near Indiranagar, seems like a fire incident.",Fire,Emergency,Brigade Road,2025-08-19 08:55:25,New
+Pothole causing accidents near Hebbal.,Potholes,Non-Emergency,Indiranagar,2025-08-09 20:34:25,Resolved
+Suspicious activity noticed at Indiranagar.,Crime,Emergency,Hebbal,2025-08-06 08:42:25,Acknowledged
+"Injury reported at BTM Layout, need hospital support.",Medical,Emergency,Whitefield,2025-08-28 00:14:25,New
+Suspicious activity noticed at Hebbal.,Crime,Emergency,Koramangala,2025-08-23 11:18:25,Resolved
+Water pollution noticed near Whitefield.,Pollution,Non-Emergency,HSR Layout,2025-08-24 02:27:25,Acknowledged
+Pothole causing accidents near BTM Layout.,Potholes,Non-Emergency,MG Road,2025-08-12 12:51:25,Resolved
+Robbery reported at Yeshwanthpur.,Crime,Emergency,Yeshwanthpur,2025-08-26 10:10:25,Acknowledged
+Pothole causing accidents near MG Road.,Potholes,Non-Emergency,Brigade Road,2025-08-11 03:35:25,Resolved
+Overflowing trash bin near Brigade Road.,Garbage,Non-Emergency,Hebbal,2025-08-13 06:42:25,Acknowledged
+"Garbage dumped at HSR Layout, smells bad.",Garbage,Non-Emergency,Hebbal,2025-08-04 09:21:25,New
+Building caught fire at Indiranagar.,Fire,Emergency,MG Road,2025-08-14 16:17:25,Acknowledged
+Building caught fire at HSR Layout.,Fire,Emergency,Brigade Road,2025-08-22 13:09:25,Resolved
+Accident causing traffic delays on Koramangala.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-21 08:54:25,Acknowledged
+"Car crash at Electronic City, traffic blocked.",Accident,Emergency,Hebbal,2025-07-28 19:51:25,Acknowledged
+"Smoke rising near Yeshwanthpur, seems like a fire incident.",Fire,Emergency,Electronic City,2025-08-22 00:07:25,Resolved
+Heart attack case reported at Brigade Road.,Medical,Emergency,HSR Layout,2025-08-24 00:54:25,New
+Huge fire reported at Indiranagar.,Fire,Emergency,Koramangala,2025-08-01 09:57:25,Acknowledged
+Medical emergency near HSR Layout.,Medical,Emergency,Hebbal,2025-08-16 00:59:25,New
+"Person fainted at Hebbal, need medical help.",Medical,Emergency,MG Road,2025-08-20 06:03:25,Acknowledged
+Dangerous pothole reported at Whitefield.,Potholes,Non-Emergency,Brigade Road,2025-08-09 16:50:25,Resolved
+"Road blocked near Whitefield, vehicles moving slowly.",Traffic,Non-Emergency,Electronic City,2025-08-28 15:17:25,New
+"Person fainted at BTM Layout, need medical help.",Medical,Emergency,BTM Layout,2025-08-05 20:21:25,Resolved
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Koramangala,2025-08-08 17:12:25,New
+Air pollution level rising around HSR Layout.,Pollution,Non-Emergency,Brigade Road,2025-08-27 05:57:25,New
+Huge fire reported at Koramangala.,Fire,Emergency,Electronic City,2025-08-03 13:07:25,New
+"Fight broke out at Koramangala, police required.",Crime,Emergency,Brigade Road,2025-08-02 07:33:25,Acknowledged
+Suspicious activity noticed at Brigade Road.,Crime,Emergency,Indiranagar,2025-08-04 08:23:25,Acknowledged
+Accident causing traffic delays on Whitefield.,Traffic,Non-Emergency,Koramangala,2025-08-16 03:05:25,Acknowledged
+Medical emergency near Brigade Road.,Medical,Emergency,MG Road,2025-08-27 08:48:25,New
+Suspicious activity noticed at Indiranagar.,Crime,Emergency,Indiranagar,2025-08-25 18:20:25,Resolved
+Garbage not collected from BTM Layout for 3 days.,Garbage,Non-Emergency,Indiranagar,2025-08-06 21:59:25,Acknowledged
+"Person fainted at MG Road, need medical help.",Medical,Emergency,Brigade Road,2025-08-18 00:17:25,Resolved
+"Major accident on Koramangala, multiple vehicles involved.",Accident,Emergency,Brigade Road,2025-08-16 19:12:25,Resolved
+Accident causing traffic delays on Koramangala.,Traffic,Non-Emergency,Hebbal,2025-08-26 12:19:25,New
+Overflowing trash bin near HSR Layout.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-25 17:30:25,Resolved
+Heavy traffic jam at HSR Layout.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-05 18:52:25,Acknowledged
+"Road blocked near MG Road, vehicles moving slowly.",Traffic,Non-Emergency,HSR Layout,2025-08-01 01:09:25,Acknowledged
+Huge fire reported at Brigade Road.,Fire,Emergency,Whitefield,2025-07-30 04:03:25,Resolved
+"Murder reported near Koramangala, urgent action needed.",Crime,Emergency,Brigade Road,2025-08-11 04:27:25,Resolved
+"Road accident reported near HSR Layout, need ambulance.",Accident,Emergency,MG Road,2025-08-08 11:34:25,Resolved
+Plastic waste causing pollution at HSR Layout.,Pollution,Non-Emergency,Hebbal,2025-08-06 22:40:25,New
+"Car crash at Brigade Road, traffic blocked.",Accident,Emergency,Yeshwanthpur,2025-08-14 16:50:25,Resolved
+Accident causing traffic delays on Brigade Road.,Traffic,Non-Emergency,Hebbal,2025-08-16 05:50:25,Resolved
+"Fight broke out at HSR Layout, police required.",Crime,Emergency,Koramangala,2025-08-03 18:44:25,New
+"Murder reported near BTM Layout, urgent action needed.",Crime,Emergency,Whitefield,2025-08-06 12:27:25,New
+"Car crash at Whitefield, traffic blocked.",Accident,Emergency,Yeshwanthpur,2025-08-11 08:41:25,New
+"Murder reported near Indiranagar, urgent action needed.",Crime,Emergency,BTM Layout,2025-08-19 11:39:25,Acknowledged
+Air pollution level rising around Electronic City.,Pollution,Non-Emergency,MG Road,2025-08-18 20:20:25,Acknowledged
+Building caught fire at MG Road.,Fire,Emergency,Koramangala,2025-07-31 19:53:25,Resolved
+"Major accident on Brigade Road, multiple vehicles involved.",Accident,Emergency,Electronic City,2025-07-31 04:49:25,Acknowledged
+"Road accident reported near Hebbal, need ambulance.",Accident,Emergency,Whitefield,2025-07-31 23:06:25,New
+Industrial smoke polluting air at Indiranagar.,Pollution,Non-Emergency,MG Road,2025-08-21 03:58:25,Resolved
+Air pollution level rising around Brigade Road.,Pollution,Non-Emergency,BTM Layout,2025-08-24 12:37:25,New
+"Garbage dumped at HSR Layout, smells bad.",Garbage,Non-Emergency,Brigade Road,2025-08-27 15:04:25,Acknowledged
+Heavy traffic jam at Yeshwanthpur.,Traffic,Non-Emergency,Yeshwanthpur,2025-08-24 09:54:25,Acknowledged
+Suspicious activity noticed at HSR Layout.,Crime,Emergency,HSR Layout,2025-08-11 14:47:25,New
+Heart attack case reported at Indiranagar.,Medical,Emergency,Yeshwanthpur,2025-08-06 12:08:25,New
+Dangerous pothole reported at Brigade Road.,Potholes,Non-Emergency,Brigade Road,2025-08-17 06:14:25,New
+Garbage not collected from Koramangala for 3 days.,Garbage,Non-Emergency,Brigade Road,2025-08-13 05:25:25,Acknowledged
+Plastic waste causing pollution at Koramangala.,Pollution,Non-Emergency,Indiranagar,2025-08-20 19:32:25,New
+Suspicious activity noticed at MG Road.,Crime,Emergency,BTM Layout,2025-08-21 04:23:25,New
+"Huge pothole on MG Road, risky for bikers.",Potholes,Non-Emergency,Koramangala,2025-07-30 10:56:25,New
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,HSR Layout,2025-08-15 13:50:25,New
+Building caught fire at Brigade Road.,Fire,Emergency,Hebbal,2025-08-17 02:46:25,New
+Huge fire reported at BTM Layout.,Fire,Emergency,Yeshwanthpur,2025-08-21 03:24:25,Acknowledged
+Heavy traffic jam at Brigade Road.,Traffic,Non-Emergency,Koramangala,2025-08-22 09:11:25,Acknowledged
+Building caught fire at Yeshwanthpur.,Fire,Emergency,Whitefield,2025-07-29 19:17:25,New
+Suspicious activity noticed at Brigade Road.,Crime,Emergency,Hebbal,2025-08-15 11:26:25,New
+Garbage not collected from Koramangala for 3 days.,Garbage,Non-Emergency,HSR Layout,2025-08-24 08:33:25,Acknowledged
+"Road blocked near Indiranagar, vehicles moving slowly.",Traffic,Non-Emergency,Yeshwanthpur,2025-08-24 15:46:25,New
+Suspicious activity noticed at Hebbal.,Crime,Emergency,BTM Layout,2025-08-06 18:45:25,New
+"Huge pothole on Hebbal, risky for bikers.",Potholes,Non-Emergency,Indiranagar,2025-08-04 13:47:25,Resolved
+Dangerous pothole reported at Koramangala.,Potholes,Non-Emergency,Indiranagar,2025-07-29 20:19:25,Acknowledged
+"Person fainted at Electronic City, need medical help.",Medical,Emergency,Electronic City,2025-08-05 08:45:25,Resolved
+"Car crash at MG Road, traffic blocked.",Accident,Emergency,Yeshwanthpur,2025-08-24 22:33:25,Acknowledged
+"Person fainted at Whitefield, need medical help.",Medical,Emergency,Koramangala,2025-08-08 04:39:25,Resolved
+Emergency! Fire outbreak at Electronic City.,Fire,Emergency,HSR Layout,2025-08-01 02:14:25,Resolved
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,Hebbal,2025-08-10 13:53:25,Resolved
+Accident causing traffic delays on HSR Layout.,Traffic,Non-Emergency,HSR Layout,2025-08-16 21:59:25,Acknowledged
+Accident causing traffic delays on Yeshwanthpur.,Traffic,Non-Emergency,Indiranagar,2025-08-24 23:13:25,New
+Pothole causing accidents near BTM Layout.,Potholes,Non-Emergency,Whitefield,2025-08-18 06:01:25,New
+"Major accident on Indiranagar, multiple vehicles involved.",Accident,Emergency,Indiranagar,2025-08-18 00:34:25,Resolved
+Water pollution noticed near BTM Layout.,Pollution,Non-Emergency,Electronic City,2025-08-15 10:33:25,New
+Road at HSR Layout has multiple potholes.,Potholes,Non-Emergency,Electronic City,2025-08-25 15:39:25,New
+"Injury reported at Hebbal, need hospital support.",Medical,Emergency,Brigade Road,2025-08-26 05:07:25,Resolved
+Road at Yeshwanthpur has multiple potholes.,Potholes,Non-Emergency,Yeshwanthpur,2025-07-29 00:24:25,Acknowledged
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-08-25 04:57:25,Resolved
+"Fight broke out at Whitefield, police required.",Crime,Emergency,Brigade Road,2025-08-04 10:44:25,New
+Industrial smoke polluting air at Indiranagar.,Pollution,Non-Emergency,Yeshwanthpur,2025-07-29 06:24:25,Acknowledged
+Building caught fire at Yeshwanthpur.,Fire,Emergency,Hebbal,2025-08-21 04:53:25,Resolved
+"Major accident on HSR Layout, multiple vehicles involved.",Accident,Emergency,MG Road,2025-08-19 13:29:25,Acknowledged
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,Indiranagar,2025-08-12 10:46:25,New
+"Injury reported at Hebbal, need hospital support.",Medical,Emergency,Indiranagar,2025-08-18 00:33:25,Resolved
+"Road accident reported near Indiranagar, need ambulance.",Accident,Emergency,Koramangala,2025-08-19 13:34:25,Resolved
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,Yeshwanthpur,2025-08-01 13:56:25,Resolved
+Road at Brigade Road has multiple potholes.,Potholes,Non-Emergency,MG Road,2025-08-09 23:04:25,Resolved
+Garbage not collected from Koramangala for 3 days.,Garbage,Non-Emergency,HSR Layout,2025-08-18 03:56:25,Acknowledged
+Building caught fire at Electronic City.,Fire,Emergency,Koramangala,2025-08-06 17:20:25,New
+"Garbage dumped at Yeshwanthpur, smells bad.",Garbage,Non-Emergency,MG Road,2025-08-11 16:59:25,New
+Garbage not collected from Yeshwanthpur for 3 days.,Garbage,Non-Emergency,Electronic City,2025-08-19 14:58:25,Acknowledged
+"Person fainted at MG Road, need medical help.",Medical,Emergency,HSR Layout,2025-08-07 10:40:25,Resolved
+"Bike accident occurred at BTM Layout, police required.",Accident,Emergency,MG Road,2025-08-21 04:19:25,Resolved
+Heart attack case reported at Hebbal.,Medical,Emergency,Yeshwanthpur,2025-07-29 12:00:25,Resolved
+"Injury reported at Yeshwanthpur, need hospital support.",Medical,Emergency,Koramangala,2025-07-31 08:16:25,Resolved
+"Road blocked near Whitefield, vehicles moving slowly.",Traffic,Non-Emergency,HSR Layout,2025-08-24 05:45:25,Acknowledged
+"Fight broke out at Electronic City, police required.",Crime,Emergency,Brigade Road,2025-08-19 18:47:25,Resolved
+"Fight broke out at Whitefield, police required.",Crime,Emergency,Hebbal,2025-08-17 18:44:25,Acknowledged
+Industrial smoke polluting air at Brigade Road.,Pollution,Non-Emergency,Electronic City,2025-08-02 05:17:25,Acknowledged
+Emergency! Fire outbreak at MG Road.,Fire,Emergency,Electronic City,2025-08-19 18:37:25,New
+"Road accident reported near BTM Layout, need ambulance.",Accident,Emergency,Hebbal,2025-08-05 03:27:25,Resolved
+Waste blocking road at HSR Layout.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-09 23:13:25,Acknowledged
+Garbage not collected from Yeshwanthpur for 3 days.,Garbage,Non-Emergency,Hebbal,2025-08-18 12:52:25,Resolved
+Overflowing trash bin near Yeshwanthpur.,Garbage,Non-Emergency,HSR Layout,2025-08-03 21:45:25,Resolved
+Suspicious activity noticed at Hebbal.,Crime,Emergency,Hebbal,2025-08-22 16:06:25,Acknowledged
+"Smoke rising near Indiranagar, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-08-19 02:40:25,Resolved
+Waste blocking road at Indiranagar.,Garbage,Non-Emergency,Koramangala,2025-08-12 01:43:25,Acknowledged
+Robbery reported at Electronic City.,Crime,Emergency,Koramangala,2025-08-13 05:04:25,New
+Heart attack case reported at Hebbal.,Medical,Emergency,HSR Layout,2025-08-27 09:17:25,Resolved
+Medical emergency near BTM Layout.,Medical,Emergency,BTM Layout,2025-08-05 17:12:25,New
+"Smoke rising near Koramangala, seems like a fire incident.",Fire,Emergency,Whitefield,2025-08-07 11:27:25,Resolved
+"Car crash at Hebbal, traffic blocked.",Accident,Emergency,Brigade Road,2025-07-30 22:14:25,Resolved
+Accident causing traffic delays on Electronic City.,Traffic,Non-Emergency,Koramangala,2025-08-14 23:25:25,Acknowledged
+"Garbage dumped at Indiranagar, smells bad.",Garbage,Non-Emergency,Hebbal,2025-08-20 08:07:25,Acknowledged
+Waste blocking road at HSR Layout.,Garbage,Non-Emergency,BTM Layout,2025-08-03 05:40:25,Acknowledged
+"Bike accident occurred at Electronic City, police required.",Accident,Emergency,BTM Layout,2025-08-11 20:05:25,New
+"Murder reported near MG Road, urgent action needed.",Crime,Emergency,BTM Layout,2025-08-17 08:40:25,Acknowledged
+Robbery reported at Koramangala.,Crime,Emergency,Indiranagar,2025-08-07 10:53:25,Resolved
+"Smoke rising near Koramangala, seems like a fire incident.",Fire,Emergency,Koramangala,2025-08-22 19:57:25,Resolved
+Traffic congestion reported at Brigade Road.,Traffic,Non-Emergency,Hebbal,2025-08-27 19:32:25,Resolved
+"Murder reported near Indiranagar, urgent action needed.",Crime,Emergency,Koramangala,2025-08-08 11:00:25,Resolved
+Medical emergency near MG Road.,Medical,Emergency,Whitefield,2025-08-18 22:15:25,Acknowledged
+Heart attack case reported at Whitefield.,Medical,Emergency,Indiranagar,2025-08-06 13:20:25,Acknowledged
+Robbery reported at Electronic City.,Crime,Emergency,Brigade Road,2025-08-15 22:51:25,New
+Road at Indiranagar has multiple potholes.,Potholes,Non-Emergency,Whitefield,2025-08-04 19:43:25,Acknowledged
+Road at HSR Layout has multiple potholes.,Potholes,Non-Emergency,Hebbal,2025-08-22 05:50:25,Resolved
+Robbery reported at Koramangala.,Crime,Emergency,MG Road,2025-08-07 14:11:25,Acknowledged
+Air pollution level rising around Whitefield.,Pollution,Non-Emergency,Brigade Road,2025-08-10 19:31:25,Resolved
+Road at BTM Layout has multiple potholes.,Potholes,Non-Emergency,Whitefield,2025-08-17 08:30:25,Acknowledged
+Plastic waste causing pollution at Whitefield.,Pollution,Non-Emergency,Koramangala,2025-08-04 00:59:25,Acknowledged
+Robbery reported at Yeshwanthpur.,Crime,Emergency,Koramangala,2025-08-01 12:09:25,Resolved
+Industrial smoke polluting air at HSR Layout.,Pollution,Non-Emergency,Electronic City,2025-08-07 20:25:25,Acknowledged
+Pothole causing accidents near Yeshwanthpur.,Potholes,Non-Emergency,Whitefield,2025-08-06 05:12:25,Resolved
+Garbage not collected from Koramangala for 3 days.,Garbage,Non-Emergency,BTM Layout,2025-08-22 09:48:25,New
+"Person fainted at Whitefield, need medical help.",Medical,Emergency,MG Road,2025-08-03 05:04:25,Resolved
+Building caught fire at Koramangala.,Fire,Emergency,MG Road,2025-08-22 06:05:25,Acknowledged
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Koramangala,2025-08-23 12:11:25,New
+Plastic waste causing pollution at Yeshwanthpur.,Pollution,Non-Emergency,Koramangala,2025-08-17 12:48:25,New
+"Smoke rising near Yeshwanthpur, seems like a fire incident.",Fire,Emergency,Brigade Road,2025-08-19 10:36:25,Acknowledged
+"Smoke rising near Hebbal, seems like a fire incident.",Fire,Emergency,Yeshwanthpur,2025-08-08 05:56:25,Resolved
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,Indiranagar,2025-08-27 13:03:25,Resolved
+Accident causing traffic delays on Yeshwanthpur.,Traffic,Non-Emergency,Electronic City,2025-08-28 05:49:25,Acknowledged
+"Bike accident occurred at Hebbal, police required.",Accident,Emergency,Electronic City,2025-08-01 07:00:25,New
+Suspicious activity noticed at Electronic City.,Crime,Emergency,HSR Layout,2025-08-05 10:15:25,New
+"Garbage dumped at Hebbal, smells bad.",Garbage,Non-Emergency,Brigade Road,2025-08-19 07:07:25,Acknowledged
+Garbage not collected from Whitefield for 3 days.,Garbage,Non-Emergency,Koramangala,2025-08-12 01:43:25,New
+Road at Brigade Road has multiple potholes.,Potholes,Non-Emergency,Whitefield,2025-08-17 07:56:25,Acknowledged
+Dangerous pothole reported at Koramangala.,Potholes,Non-Emergency,MG Road,2025-08-01 14:29:25,Resolved
+Medical emergency near Electronic City.,Medical,Emergency,Brigade Road,2025-08-17 02:05:25,Resolved
+Pothole causing accidents near Electronic City.,Potholes,Non-Emergency,Whitefield,2025-07-31 22:46:25,New
+"Garbage dumped at Yeshwanthpur, smells bad.",Garbage,Non-Emergency,MG Road,2025-08-21 13:38:25,Acknowledged
+Traffic congestion reported at Brigade Road.,Traffic,Non-Emergency,Whitefield,2025-08-10 00:06:25,New
+Industrial smoke polluting air at Whitefield.,Pollution,Non-Emergency,Electronic City,2025-08-20 22:38:25,Resolved
+"Bike accident occurred at Yeshwanthpur, police required.",Accident,Emergency,BTM Layout,2025-08-14 13:12:25,Resolved
+"Smoke rising near Hebbal, seems like a fire incident.",Fire,Emergency,BTM Layout,2025-08-22 16:44:25,Resolved
+Huge fire reported at MG Road.,Fire,Emergency,HSR Layout,2025-08-26 15:06:25,Resolved
+Traffic congestion reported at Yeshwanthpur.,Traffic,Non-Emergency,BTM Layout,2025-08-20 14:28:25,Resolved
+"Person fainted at Whitefield, need medical help.",Medical,Emergency,Indiranagar,2025-07-29 07:45:25,Resolved
+Medical emergency near Electronic City.,Medical,Emergency,MG Road,2025-08-04 21:02:25,Resolved
+Water pollution noticed near Koramangala.,Pollution,Non-Emergency,Indiranagar,2025-08-03 11:18:25,Resolved
+Pothole causing accidents near Electronic City.,Potholes,Non-Emergency,BTM Layout,2025-08-05 05:24:25,New
+Huge fire reported at Electronic City.,Fire,Emergency,Yeshwanthpur,2025-08-27 06:15:25,Acknowledged
+Water pollution noticed near BTM Layout.,Pollution,Non-Emergency,MG Road,2025-08-03 23:46:25,Acknowledged
+"Huge pothole on Electronic City, risky for bikers.",Potholes,Non-Emergency,Indiranagar,2025-07-30 23:55:25,Acknowledged
+Air pollution level rising around BTM Layout.,Pollution,Non-Emergency,Yeshwanthpur,2025-08-05 19:20:25,New
+Accident causing traffic delays on HSR Layout.,Traffic,Non-Emergency,Brigade Road,2025-08-12 22:59:25,Resolved
+"Road blocked near Hebbal, vehicles moving slowly.",Traffic,Non-Emergency,Brigade Road,2025-08-24 18:23:25,Resolved
+Overflowing trash bin near Brigade Road.,Garbage,Non-Emergency,BTM Layout,2025-08-13 05:58:25,Resolved
+"Car crash at Brigade Road, traffic blocked.",Accident,Emergency,Indiranagar,2025-08-24 06:22:25,New
+Medical emergency near Yeshwanthpur.,Medical,Emergency,Hebbal,2025-08-11 11:20:25,New
+Medical emergency near HSR Layout.,Medical,Emergency,Brigade Road,2025-08-23 08:12:25,Acknowledged
+Air pollution level rising around Hebbal.,Pollution,Non-Emergency,MG Road,2025-08-12 17:13:25,Resolved
+Suspicious activity noticed at MG Road.,Crime,Emergency,MG Road,2025-08-05 09:49:25,Resolved
+"Car crash at MG Road, traffic blocked.",Accident,Emergency,Hebbal,2025-08-04 12:52:25,Acknowledged
+Air pollution level rising around MG Road.,Pollution,Non-Emergency,Indiranagar,2025-08-05 05:07:25,New
+"Major accident on Hebbal, multiple vehicles involved.",Accident,Emergency,Brigade Road,2025-08-09 04:30:25,New
+"Smoke rising near MG Road, seems like a fire incident.",Fire,Emergency,Yeshwanthpur,2025-08-11 14:38:25,New
+Suspicious activity noticed at Yeshwanthpur.,Crime,Emergency,Electronic City,2025-08-19 12:05:25,New
+Water pollution noticed near Whitefield.,Pollution,Non-Emergency,Indiranagar,2025-08-02 15:44:25,Resolved
+"Bike accident occurred at MG Road, police required.",Accident,Emergency,Whitefield,2025-08-28 13:56:25,Acknowledged
+Traffic congestion reported at Whitefield.,Traffic,Non-Emergency,MG Road,2025-08-05 23:04:25,Acknowledged
+"Major accident on Whitefield, multiple vehicles involved.",Accident,Emergency,Hebbal,2025-07-31 17:53:25,New
+Road at MG Road has multiple potholes.,Potholes,Non-Emergency,HSR Layout,2025-08-06 06:49:25,Acknowledged
+"Injury reported at Indiranagar, need hospital support.",Medical,Emergency,Hebbal,2025-08-08 19:07:25,New
+Robbery reported at HSR Layout.,Crime,Emergency,Indiranagar,2025-08-05 07:39:25,Resolved
+Pothole causing accidents near Koramangala.,Potholes,Non-Emergency,BTM Layout,2025-08-12 11:43:25,Acknowledged
+"Fight broke out at Hebbal, police required.",Crime,Emergency,Yeshwanthpur,2025-08-25 18:03:25,Acknowledged
+Emergency! Fire outbreak at BTM Layout.,Fire,Emergency,Brigade Road,2025-08-24 13:25:25,Resolved
+Air pollution level rising around Whitefield.,Pollution,Non-Emergency,Koramangala,2025-08-17 07:19:25,Acknowledged
+"Smoke rising near Yeshwanthpur, seems like a fire incident.",Fire,Emergency,Electronic City,2025-08-12 18:51:25,Acknowledged
+"Smoke rising near Brigade Road, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-26 11:18:25,Acknowledged
+Dangerous pothole reported at Brigade Road.,Potholes,Non-Emergency,Electronic City,2025-08-11 04:27:25,Acknowledged
+Air pollution level rising around Hebbal.,Pollution,Non-Emergency,Indiranagar,2025-08-06 08:02:25,Acknowledged
+Water pollution noticed near Yeshwanthpur.,Pollution,Non-Emergency,BTM Layout,2025-08-17 12:37:25,Resolved
+Emergency! Fire outbreak at Koramangala.,Fire,Emergency,Hebbal,2025-08-06 14:22:25,Resolved
+Road at Koramangala has multiple potholes.,Potholes,Non-Emergency,Indiranagar,2025-08-01 09:17:25,Resolved
+Traffic congestion reported at MG Road.,Traffic,Non-Emergency,Indiranagar,2025-08-23 22:13:25,Acknowledged
+"Smoke rising near Indiranagar, seems like a fire incident.",Fire,Emergency,Yeshwanthpur,2025-08-08 10:14:25,Resolved
+Water pollution noticed near Koramangala.,Pollution,Non-Emergency,MG Road,2025-08-23 23:12:25,Resolved
+Heavy traffic jam at HSR Layout.,Traffic,Non-Emergency,HSR Layout,2025-07-28 17:42:25,New
+Huge fire reported at HSR Layout.,Fire,Emergency,BTM Layout,2025-08-07 12:12:25,New
+Emergency! Fire outbreak at Hebbal.,Fire,Emergency,MG Road,2025-08-16 22:55:25,Resolved
+Robbery reported at Koramangala.,Crime,Emergency,Koramangala,2025-08-24 23:57:25,Resolved
+Plastic waste causing pollution at Koramangala.,Pollution,Non-Emergency,Koramangala,2025-07-31 09:17:25,New
+Water pollution noticed near MG Road.,Pollution,Non-Emergency,Indiranagar,2025-08-16 04:15:25,Resolved
+Robbery reported at Brigade Road.,Crime,Emergency,MG Road,2025-08-05 21:53:25,Resolved
+Accident causing traffic delays on Hebbal.,Traffic,Non-Emergency,HSR Layout,2025-08-08 00:39:25,New
+"Bike accident occurred at Hebbal, police required.",Accident,Emergency,BTM Layout,2025-08-16 06:50:25,Acknowledged
+Road at BTM Layout has multiple potholes.,Potholes,Non-Emergency,Yeshwanthpur,2025-08-12 11:41:25,Acknowledged
+"Person fainted at Yeshwanthpur, need medical help.",Medical,Emergency,Whitefield,2025-07-29 07:15:25,Resolved
+Traffic congestion reported at Whitefield.,Traffic,Non-Emergency,Hebbal,2025-08-21 19:20:25,Acknowledged
+"Car crash at BTM Layout, traffic blocked.",Accident,Emergency,Whitefield,2025-08-10 14:24:25,Resolved
+"Huge pothole on Indiranagar, risky for bikers.",Potholes,Non-Emergency,HSR Layout,2025-08-10 02:26:25,Resolved
+Road at Yeshwanthpur has multiple potholes.,Potholes,Non-Emergency,Hebbal,2025-08-03 03:14:25,Resolved
+"Injury reported at MG Road, need hospital support.",Medical,Emergency,Indiranagar,2025-08-23 15:18:25,Resolved
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,Whitefield,2025-08-25 12:22:25,Resolved
+Water pollution noticed near Hebbal.,Pollution,Non-Emergency,BTM Layout,2025-08-10 12:37:25,Acknowledged
+Waste blocking road at Brigade Road.,Garbage,Non-Emergency,MG Road,2025-08-17 13:15:25,Acknowledged
+Huge fire reported at Brigade Road.,Fire,Emergency,Koramangala,2025-08-05 04:40:25,Acknowledged
+Industrial smoke polluting air at Koramangala.,Pollution,Non-Emergency,HSR Layout,2025-07-31 00:17:25,New
+Heavy traffic jam at HSR Layout.,Traffic,Non-Emergency,Indiranagar,2025-07-29 18:49:25,Acknowledged
+"Road accident reported near HSR Layout, need ambulance.",Accident,Emergency,Yeshwanthpur,2025-08-01 12:38:25,Resolved
+"Murder reported near Indiranagar, urgent action needed.",Crime,Emergency,Koramangala,2025-08-12 02:08:25,New
+Industrial smoke polluting air at Electronic City.,Pollution,Non-Emergency,Yeshwanthpur,2025-07-29 20:06:25,New
+Air pollution level rising around MG Road.,Pollution,Non-Emergency,Electronic City,2025-08-21 22:48:25,Resolved
+"Injury reported at Whitefield, need hospital support.",Medical,Emergency,MG Road,2025-08-15 15:17:25,Resolved
+Robbery reported at Yeshwanthpur.,Crime,Emergency,Brigade Road,2025-08-16 09:22:25,Resolved
+Heart attack case reported at Brigade Road.,Medical,Emergency,Electronic City,2025-08-02 03:35:25,Acknowledged
+Dangerous pothole reported at Brigade Road.,Potholes,Non-Emergency,Brigade Road,2025-08-15 12:01:25,New
+Road at HSR Layout has multiple potholes.,Potholes,Non-Emergency,Yeshwanthpur,2025-08-17 01:37:25,New
+"Road accident reported near Hebbal, need ambulance.",Accident,Emergency,Whitefield,2025-08-18 15:05:25,Acknowledged
+Building caught fire at Hebbal.,Fire,Emergency,BTM Layout,2025-08-25 10:49:25,Acknowledged
+"Fight broke out at BTM Layout, police required.",Crime,Emergency,Yeshwanthpur,2025-08-19 23:10:25,Acknowledged
+"Smoke rising near Electronic City, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-08-04 23:43:25,Resolved
+"Car crash at Whitefield, traffic blocked.",Accident,Emergency,Brigade Road,2025-08-03 13:35:25,Resolved
+Heart attack case reported at Indiranagar.,Medical,Emergency,Indiranagar,2025-08-06 16:05:25,Acknowledged
+"Road accident reported near Whitefield, need ambulance.",Accident,Emergency,Yeshwanthpur,2025-08-27 15:14:25,Resolved
+Heart attack case reported at Yeshwanthpur.,Medical,Emergency,HSR Layout,2025-08-27 00:14:25,Resolved
+Waste blocking road at Indiranagar.,Garbage,Non-Emergency,HSR Layout,2025-08-18 12:38:25,Acknowledged
+Medical emergency near Koramangala.,Medical,Emergency,Hebbal,2025-08-18 23:29:25,New
+"Smoke rising near Brigade Road, seems like a fire incident.",Fire,Emergency,MG Road,2025-08-17 15:15:25,Acknowledged
+"Person fainted at Indiranagar, need medical help.",Medical,Emergency,HSR Layout,2025-08-06 09:02:25,New
+"Road accident reported near Yeshwanthpur, need ambulance.",Accident,Emergency,Yeshwanthpur,2025-08-06 12:57:25,Resolved
+Waste blocking road at Koramangala.,Garbage,Non-Emergency,HSR Layout,2025-08-15 11:16:25,Resolved
+"Major accident on Electronic City, multiple vehicles involved.",Accident,Emergency,Yeshwanthpur,2025-08-21 15:58:25,Acknowledged
+"Major accident on HSR Layout, multiple vehicles involved.",Accident,Emergency,Brigade Road,2025-08-26 04:02:25,Acknowledged
+Pothole causing accidents near Yeshwanthpur.,Potholes,Non-Emergency,Whitefield,2025-08-07 18:04:25,Acknowledged
+Building caught fire at MG Road.,Fire,Emergency,Indiranagar,2025-07-30 04:23:25,Acknowledged
+Plastic waste causing pollution at Brigade Road.,Pollution,Non-Emergency,MG Road,2025-08-25 15:10:25,Acknowledged
+Pothole causing accidents near Whitefield.,Potholes,Non-Emergency,BTM Layout,2025-08-19 21:18:25,New
+Suspicious activity noticed at Koramangala.,Crime,Emergency,Koramangala,2025-08-20 10:42:25,New
+"Smoke rising near Koramangala, seems like a fire incident.",Fire,Emergency,Indiranagar,2025-08-07 03:18:25,Resolved
+Traffic congestion reported at Whitefield.,Traffic,Non-Emergency,Koramangala,2025-08-10 01:15:25,Acknowledged
+Heavy traffic jam at BTM Layout.,Traffic,Non-Emergency,Koramangala,2025-07-28 22:50:25,Acknowledged
+Heart attack case reported at Indiranagar.,Medical,Emergency,Hebbal,2025-08-07 13:12:25,New
+"Person fainted at Electronic City, need medical help.",Medical,Emergency,HSR Layout,2025-08-09 20:57:25,Acknowledged
+"Injury reported at Brigade Road, need hospital support.",Medical,Emergency,BTM Layout,2025-08-18 17:00:25,Acknowledged
+Emergency! Fire outbreak at Electronic City.,Fire,Emergency,Indiranagar,2025-08-06 15:26:25,New
+Building caught fire at BTM Layout.,Fire,Emergency,Electronic City,2025-08-12 23:12:25,Acknowledged
+"Injury reported at Whitefield, need hospital support.",Medical,Emergency,MG Road,2025-07-31 17:18:25,New
+"Garbage dumped at Whitefield, smells bad.",Garbage,Non-Emergency,Yeshwanthpur,2025-08-05 16:02:25,Resolved
+"Murder reported near MG Road, urgent action needed.",Crime,Emergency,Whitefield,2025-08-09 18:42:25,Resolved
+Air pollution level rising around Electronic City.,Pollution,Non-Emergency,BTM Layout,2025-08-01 05:46:25,New
+"Road accident reported near HSR Layout, need ambulance.",Accident,Emergency,HSR Layout,2025-07-30 08:13:25,Acknowledged
+Industrial smoke polluting air at MG Road.,Pollution,Non-Emergency,Brigade Road,2025-08-03 05:40:25,Acknowledged
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,Hebbal,2025-08-24 21:08:25,Resolved
+"Bike accident occurred at Whitefield, police required.",Accident,Emergency,Whitefield,2025-08-14 04:12:25,Acknowledged
+Heart attack case reported at Koramangala.,Medical,Emergency,MG Road,2025-08-20 18:50:25,Resolved
+Heart attack case reported at Indiranagar.,Medical,Emergency,Brigade Road,2025-08-06 18:01:25,New
+Building caught fire at BTM Layout.,Fire,Emergency,Indiranagar,2025-08-08 00:01:25,Resolved
+Robbery reported at Indiranagar.,Crime,Emergency,MG Road,2025-08-14 07:35:25,New
+Medical emergency near HSR Layout.,Medical,Emergency,HSR Layout,2025-08-09 07:34:25,Acknowledged
+Traffic congestion reported at Brigade Road.,Traffic,Non-Emergency,BTM Layout,2025-07-28 16:56:25,New
+Heavy traffic jam at MG Road.,Traffic,Non-Emergency,Koramangala,2025-08-22 00:46:25,Acknowledged
+Dangerous pothole reported at BTM Layout.,Potholes,Non-Emergency,Yeshwanthpur,2025-08-26 05:55:25,Resolved
+Road at Koramangala has multiple potholes.,Potholes,Non-Emergency,BTM Layout,2025-08-20 11:27:25,Resolved
+Heart attack case reported at Koramangala.,Medical,Emergency,Hebbal,2025-08-08 01:22:25,Acknowledged
+"Road accident reported near BTM Layout, need ambulance.",Accident,Emergency,Electronic City,2025-08-12 07:25:25,Acknowledged
+Road at Hebbal has multiple potholes.,Potholes,Non-Emergency,Hebbal,2025-08-11 22:56:25,Acknowledged
+Road at Brigade Road has multiple potholes.,Potholes,Non-Emergency,Hebbal,2025-07-30 01:11:25,New
+Road at Hebbal has multiple potholes.,Potholes,Non-Emergency,Yeshwanthpur,2025-08-22 19:33:25,Resolved
+Industrial smoke polluting air at Hebbal.,Pollution,Non-Emergency,BTM Layout,2025-08-21 02:25:25,New
+Suspicious activity noticed at Whitefield.,Crime,Emergency,HSR Layout,2025-08-27 22:37:25,Resolved
+Overflowing trash bin near Indiranagar.,Garbage,Non-Emergency,Koramangala,2025-07-31 18:16:25,New
+Road at Hebbal has multiple potholes.,Potholes,Non-Emergency,MG Road,2025-08-22 23:13:25,Acknowledged
+"Garbage dumped at BTM Layout, smells bad.",Garbage,Non-Emergency,BTM Layout,2025-08-22 21:55:25,Acknowledged
+Road at MG Road has multiple potholes.,Potholes,Non-Emergency,Yeshwanthpur,2025-08-06 13:38:25,Resolved
+Water pollution noticed near Electronic City.,Pollution,Non-Emergency,Electronic City,2025-08-02 20:50:25,Acknowledged
+"Major accident on Koramangala, multiple vehicles involved.",Accident,Emergency,Koramangala,2025-08-28 05:30:25,Acknowledged
+Water pollution noticed near Yeshwanthpur.,Pollution,Non-Emergency,Brigade Road,2025-08-28 04:02:25,New
+"Major accident on HSR Layout, multiple vehicles involved.",Accident,Emergency,HSR Layout,2025-08-11 12:27:25,Acknowledged
+Road at Hebbal has multiple potholes.,Potholes,Non-Emergency,HSR Layout,2025-08-07 02:06:25,Resolved
+Dangerous pothole reported at Indiranagar.,Potholes,Non-Emergency,Brigade Road,2025-08-11 05:31:25,Acknowledged
+"Car crash at Yeshwanthpur, traffic blocked.",Accident,Emergency,BTM Layout,2025-08-24 15:17:25,Resolved
+Building caught fire at Koramangala.,Fire,Emergency,Whitefield,2025-08-24 16:59:25,Acknowledged
+"Road accident reported near Koramangala, need ambulance.",Accident,Emergency,BTM Layout,2025-08-09 22:12:25,New
+Emergency! Fire outbreak at Indiranagar.,Fire,Emergency,HSR Layout,2025-08-14 14:28:25,New
+"Garbage dumped at Electronic City, smells bad.",Garbage,Non-Emergency,Whitefield,2025-08-09 20:22:25,Acknowledged
+"Injury reported at HSR Layout, need hospital support.",Medical,Emergency,Yeshwanthpur,2025-08-13 19:05:25,New
+Traffic congestion reported at Electronic City.,Traffic,Non-Emergency,HSR Layout,2025-08-12 00:28:25,Resolved
+"Smoke rising near HSR Layout, seems like a fire incident.",Fire,Emergency,HSR Layout,2025-07-30 08:14:25,Resolved
+Plastic waste causing pollution at Hebbal.,Pollution,Non-Emergency,Indiranagar,2025-07-29 11:12:25,Resolved
+Pothole causing accidents near Koramangala.,Potholes,Non-Emergency,BTM Layout,2025-08-23 23:49:25,Resolved
+"Bike accident occurred at Brigade Road, police required.",Accident,Emergency,Koramangala,2025-07-29 04:46:25,New
+Waste blocking road at Electronic City.,Garbage,Non-Emergency,Koramangala,2025-08-03 00:36:25,New
+"Huge pothole on Indiranagar, risky for bikers.",Potholes,Non-Emergency,Whitefield,2025-08-23 14:37:25,Acknowledged
+Suspicious activity noticed at Electronic City.,Crime,Emergency,HSR Layout,2025-07-30 22:23:25,Acknowledged
+Building caught fire at Hebbal.,Fire,Emergency,Indiranagar,2025-08-05 00:46:25,Resolved
+"Person fainted at Brigade Road, need medical help.",Medical,Emergency,HSR Layout,2025-08-23 21:03:25,Acknowledged
+Robbery reported at Yeshwanthpur.,Crime,Emergency,BTM Layout,2025-08-01 03:07:25,Acknowledged
+"Road accident reported near Brigade Road, need ambulance.",Accident,Emergency,Whitefield,2025-08-01 23:52:25,Resolved
+Plastic waste causing pollution at Yeshwanthpur.,Pollution,Non-Emergency,Hebbal,2025-08-22 12:17:25,New
+Pothole causing accidents near Yeshwanthpur.,Potholes,Non-Emergency,Indiranagar,2025-08-04 01:34:25,Resolved
+"Garbage dumped at Koramangala, smells bad.",Garbage,Non-Emergency,Koramangala,2025-08-17 12:26:25,Resolved
+Pothole causing accidents near Hebbal.,Potholes,Non-Emergency,Whitefield,2025-07-30 13:27:25,New
+"Garbage dumped at Koramangala, smells bad.",Garbage,Non-Emergency,HSR Layout,2025-08-08 21:08:25,Resolved
+Garbage not collected from Yeshwanthpur for 3 days.,Garbage,Non-Emergency,Brigade Road,2025-08-25 12:27:25,Resolved
+Garbage not collected from Hebbal for 3 days.,Garbage,Non-Emergency,MG Road,2025-07-29 10:55:25,Acknowledged
+Building caught fire at Whitefield.,Fire,Emergency,Hebbal,2025-08-08 21:19:25,New
+Plastic waste causing pollution at Whitefield.,Pollution,Non-Emergency,MG Road,2025-08-06 18:09:25,Resolved
+"Injury reported at Koramangala, need hospital support.",Medical,Emergency,HSR Layout,2025-08-13 02:54:25,Acknowledged
+Suspicious activity noticed at MG Road.,Crime,Emergency,Yeshwanthpur,2025-07-30 04:45:25,Resolved
+Garbage not collected from Whitefield for 3 days.,Garbage,Non-Emergency,Brigade Road,2025-08-17 21:47:25,Resolved
+"Car crash at Brigade Road, traffic blocked.",Accident,Emergency,BTM Layout,2025-08-14 20:11:25,Resolved
+"Road accident reported near Electronic City, need ambulance.",Accident,Emergency,Hebbal,2025-08-19 05:30:25,New
+"Road blocked near BTM Layout, vehicles moving slowly.",Traffic,Non-Emergency,Electronic City,2025-08-17 00:14:25,Resolved
+Accident causing traffic delays on Electronic City.,Traffic,Non-Emergency,Koramangala,2025-08-01 04:23:25,Acknowledged
+"Huge pothole on Koramangala, risky for bikers.",Potholes,Non-Emergency,Yeshwanthpur,2025-08-18 15:04:25,New
+"Huge pothole on Hebbal, risky for bikers.",Potholes,Non-Emergency,Hebbal,2025-08-16 17:29:25,Acknowledged
+"Huge pothole on Brigade Road, risky for bikers.",Potholes,Non-Emergency,Indiranagar,2025-08-27 18:23:25,New
+Overflowing trash bin near Koramangala.,Garbage,Non-Emergency,Yeshwanthpur,2025-08-19 09:05:25,New
+"Road accident reported near Electronic City, need ambulance.",Accident,Emergency,Hebbal,2025-08-18 00:51:25,New
