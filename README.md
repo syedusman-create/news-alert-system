@@ -7,7 +7,7 @@ A real-time incident reporting and monitoring system with role-based access cont
 ### 🎯 Core Functionality
 - **Real-time Incident Monitoring**: View incidents on an interactive map
 - **Role-based Access Control**: Different views for public users and authorities
-- **Interactive Map**: Location-based incident visualization with Mapbox
+- **Interactive Map**: Location-based incident visualization with OpenStreetMap
 - **Status Management**: Authorities can update incident status (New → Acknowledged → Resolved)
 - **Filtering & Search**: Filter incidents by category, status, and location
 
@@ -51,7 +51,7 @@ A real-time incident reporting and monitoring system with role-based access cont
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/syedusman-create/news-alert-system.git
    cd news-alert-system
    ```
 
